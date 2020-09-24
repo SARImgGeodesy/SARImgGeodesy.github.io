@@ -70,7 +70,7 @@ a:hover{
 * **<a href="https://wuzhipeng.cn/">Zhipeng Wu</a>** (with Prof. Yu Wang, University of Chinese Academy of Sciences)   
   AI in time-series InSAR analysis  
 
-* **Heng Luo** (with Prof. Mingsheng Liao, Wuhuan University)  
+* **Heng Luo** (with Prof. Mingsheng Liao, Wuhan University)  
   Small and deep earthquakes  
 
 
