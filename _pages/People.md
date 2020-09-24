@@ -18,7 +18,7 @@ author_profile: true
 
 <div style="text-align: left;"> <img src="/images/PI_photo.jpg" alt="PI_photo" width = "500"> </div>  
 **Teng Wang**   
-Assistant Profess, Peking University  
+Assistant Professor, Peking University  
 
 
 **Research Interest**
@@ -26,6 +26,8 @@ Assistant Profess, Peking University
 * Radar Imaging Geodesy: SAR/InSAR, time-series analysis, pixel-offset tracking, change detection
 * Geophysics: earthquake and volcano deformation, large-scale tectonic deformation
 * Nature Hazard: landslides, infrastructure stability, urban subsidence, hydrological process
+
+We are always open to both prospective students and potential postdoctoral researchers to join our group.
 
 ## Post-docs
 
