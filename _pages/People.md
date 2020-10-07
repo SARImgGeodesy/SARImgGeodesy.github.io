@@ -51,7 +51,7 @@ We are always open to both prospective students and potential postdoctoral resea
   
 2019
 
-* **Wenzhi Fan** (with Prof. Yonghong Zhao, Peking University)  
+* **Wenzhi Fan**   
   Atmospheric related signals in InSAR  
 
 ### **Co-supervised with relevant projects in our group**
