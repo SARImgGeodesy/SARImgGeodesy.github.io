@@ -40,19 +40,24 @@ We are always open to both prospective students and potential postdoctoral resea
 
 2020  
 
+* **Zhen Li**
+  Coseismic defromation and fault geometry
+
 * **Ziming Liu**  
   Large-scale SAR interferometry and applications to earthquake cycles   
 
 * **Yuexiang Wang**  
   Surface deformation associated with elasticity and fluid mechanics  
+  
+2019
+
+* **Wenzhi Fan** (with Prof. Yonghong Zhao, Peking University)  
+  Atmospheric related signals in InSAR  
 
 ### **Co-supervised with relevant projects in our group**
 
 * **Jin Ge** (with Prof. Xuhua Shi, Zhejiang University)  
   Contemporary surface deformation of the Pamir fault system from InSAR  
-
-* **Wenzhi Fan** (with Prof. Yonghong Zhao, Peking University)  
-  Atmospheric related signals in InSAR  
 
 * **Andong Xu** (with Prof. Yonghong Zhao, Peking University)  
   Coseismic ruptures and fractures  
