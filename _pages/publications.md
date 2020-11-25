@@ -9,7 +9,7 @@ author_profile: true
 <div style="text-align: center;">
 <b>Space imaging geodesy reveals near circular, coseismic block rotation during the 2016 Mw 7.8 Kaikōura earthquake, New Zealand</b>
 <b>空间影像大地测量在2016年新西兰凯库拉地震中揭示的近圆形同震块体旋转</b>
-  
+<a href="https://www.doi.org/10.1029/2020GL090206">Wang, T., Jiao, L., Tapponnier, P., Shi, X., & Wei, S. (2020). Space imaging geodesy reveals near circular, coseismic block rotation during the 2016 Mw 7.8 Kaikōura earthquake, New Zealand. Geophysical Research Letters, 47, e2020GL090206.</a>
 </div>
 
 
