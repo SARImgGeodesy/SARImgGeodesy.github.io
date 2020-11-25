@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-Space imaging geodesy reveals near circular, coseismic block rotation during the 2016 Mw 7.8 Kaikōura earthquake, New Zealand  
-空间影像大地测量在2016年新西兰凯库拉地震中揭示的近圆形同震块体旋转  
+#Space imaging geodesy reveals near circular, coseismic block rotation during the 2016 Mw 7.8 Kaikōura earthquake, New Zealand  
+#空间影像大地测量在2016年新西兰凯库拉地震中揭示的近圆形同震块体旋转  
 
 Large earthquakes usually rupture plate boundary faults, releasing the accumulated stress as displacements localized along smooth, narrow faults. However, certain earthquakes initiate off main faults, rupturing adjacent, secondary faults. The mechanisms of such atypical stress release remain enigmatic, partly due to a lack of detailed geodetic evidence. Here using the 3D coseismic displacement field derived from space imaging geodesy, we detect 10‐km‐scale, nearly‐circular coseismic block rotation during the 2016 Mw 7.8 Kaikōura earthquake in New Zealand. Together, geodetic observations, longer term local paleomagnetic data, analytical, and discrete element modeling imply that localized block rotation occurred south of the Hope fault along weak, steep, bedding‐parallel boundaries within a narrow, ~20‐km‐wide dextral shear zone. That stress near plate boundary faults can be partially released in zones of distributed ruptures absorbing coseismic rotation may retard rupture along main faults. Our observations also suggest that coseismic rotation may help accomodate plate boundary propagation.
 
