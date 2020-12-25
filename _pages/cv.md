@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="text-align: left;"> <img src="/images/tengwang.jpg" alt="tengwang" width = "300"> </div>  
+**Teng Wang**   
+Assistant Professor, Peking University  
+
 Education
 ======
 * B.S. Geographic Information System, Wuhan University, Wuhan, P. R. China, 9/1999 - 7/2003
