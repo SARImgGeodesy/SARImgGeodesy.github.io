@@ -68,7 +68,7 @@ Sentinel-1 干涉处理器是北京大学[雷达影像测地学团队](https://s
 
 If you'd like to use the trail version for teaching, much appreciate if you could let us know your affiliation and some basic information about your class. Feedbacks from you and your students will help us improve the software.
 
-<img src="/images/Trial version logo.png" width = "40" height = "40" /> [Trial version](https://github.com/Wu-Patrick/MyDownload/raw/master/Sentinel-1Processor-PublicRelease.zip) (can process images acquired in 2019)
+<img src="/images/Trial version logo.png" width = "40" height = "40" /> [Trial version](https://github.com/Wu-Patrick/MyDownload/raw/master/Sentinel-1Processor-PublicRelease.zip) (can process images acquired in 2019 and 2020)
 
 <img src="/images/Full version logo.png" width = "40" height = "40" /> Full version [(contact us)](mailto:wang.teng@pku.edu.cn)
 
