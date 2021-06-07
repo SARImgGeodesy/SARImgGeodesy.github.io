@@ -5,6 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>2021-#6</b>  
+<div style="text-align: center;">
+<b>Small Fractures Caused by the 2019 Ridgecrest Earthquake Sequence: Insights from 3D coseismic displacement and uniaxial loading rock experiments</b>  
+<br><b>由2019年Ridgecrest地震序列引起的地表小裂隙:基于三维同震位移和单轴加载岩石实验的研究</b>  
+<br><a href="https://doi.org/10.3389/feart.2021.672809">Xu, A., Y. Zhao, T. Wang*, C. Ren, and H. Yue (2021), Small Fractures Caused by the 2019 Ridgecrest Earthquake Sequence: Insights From 3D Coseismic Displacement and Uniaxial Loading Rock Experiments, , 9(June), 1–11, doi:10.3389/feart.2021.672809. 9.</a>
+</div>
+
+
+The moment magnitude (Mw) 6.4 and 7.1 Ridgecrest earthquake sequence occurred on 4th and 6th July 2019, ruptured a conjugate fault system within the eastern California shear zone. In addition to the ~50 km surface ruptures, the sequence activated a series of structures with lengths ranging from 1 to 10 km, which are well illuminated by phase gradient maps of Synthetic Aperture Radar (SAR) interferograms. The deformation patterns and mechanisms of these fractures has been well studied, yet the controlling factors of their spatial distribution are less discussed, which are important for understanding how the accumulated strain is released via distributed faulting in the earthquake cycle. Here, we use multi-source SAR images to derive 3-dimensional (3D) surface displacement along the main ruptures and the east-west strain across the detected small fractures caused by the 2019 Ridgecrest earthquake sequence. We find that the distribution of these fractures is related to the displacement pattern along the main rupture. Specifically, more fractures appeared in areas with larger slips normal to the main rupture as well as in the junction of the conjugated ruptures. We also conduct uniaxial loading rock experiments to evaluate the strain distribution before the samples were broken. Rock experiments show that rupturing of a conjugated fault system may produce local strain concentration along the main rupture, indicating the important role of the orthogonal faults in generating small fractures with different striking angles and deformation patterns. The 2019 Ridgecrest earthquake sequence exhibits complicated crust behaviors by rupturing an immature fault system, implying that the simple elastic rebound theory may be insufficient to model the coseismic deformation during the earthquake cycle, particularly in the zone with weak crust.
+
+2019年7月4日和6日矩震级为6.4和7.1的Ridgecrest地震序列，破裂了加利福尼亚东部剪切带 (eastern California shear zone, ECSZ) 内的一个共轭断层系统。这个地震序列除了造成约50 km的地表破裂外，还激活了一系列被合成孔径雷达 (Synthetic Aperture Radar, SAR) 干涉相位梯度图所揭示的长度为1~10公里的小裂隙。这些小裂隙的变形模式和机制已经得到了很好的研究，但关于它们空间分布的控制因素的讨论却很少，这些因素对于理解地震周期中积累的应变是如何通过分布断层释放的具有重要意义。这里，我们使用了多源SAR图像获取了2019年Ridgecrest地震序列引起的主破裂带沿线的三维地表位移和小裂隙所在位置的东西向应变。我们发现这些小裂隙的分布与主破裂沿线的位移模式有关。具体来说，在主破裂法向位移较大的区域以及共轭断层的交界处，小裂隙的密度较高。我们还进行了单轴加载岩石试验以评估岩石样品破坏前的应变分布。岩石实验的结果表明，共轭断层系统在破裂过程中可能会沿着主破裂产生局部应变集中，这也显示了正交断层对不同走向和变形模式的小裂隙形成所起的重要作用。2019年的Ridgecrest地震序列通过破坏一个不成熟的断裂系统表现出复杂的地壳形变行为，这意味着简单的弹性回跳理论可能不足以模拟地震周期内的同震变形，特别是在地壳较弱的地区。
+
+<div style="text-align: center;"> <img src="/images/research_34_1.png" alt="softwareTitleEn" width="800"> <br>Strain fields observed before the broken of marble samples. Colors represent the strain in the direction of X-axis (A) and Y-axis (B) of the marble sample with only one prefabricated fault and of the marble sample with two orthogonal prefabricated faults (C and D, respectively). Positive values indicate tensional strain along the corresponding axis while the negative values indicate compressional strain along the axis. The black line indicates the prefabricated fault and the loading direction is along the negative direction of Y-axis. The principal strain axes within the red rectangles in (C) are shown in (E). The red lines indicate the prefabricated faults, and the black lines represent the compression while the magenta lines represent extension. Surface fractures produced by earthquake sequence in the corresponding areas are shown in (F) for comparison.  
+<br>图1. 大理岩样品破裂前的应变场特征。颜色代表只有一条预制裂纹的大理岩样品 (A~B) 和两条正交共轭预制裂纹裂纹的大理岩样品 (C~D) 在X方向上和Y方向上的应变。正值表示相应方向的拉张应变，负值表示相应方向的压缩应变。黑色直线显示的是预制裂纹的位置，加载的方向沿Y轴负向。图 (C) 中红色矩形区域内的主应变轴如图 (E) 所示。红色线表示预制裂纹，黑色线表示压缩应变，品红色线表示拉张应变。相应地区地震序列产生的地表破裂如图 (F) 所示。</div>
+
+---
+
 <b>2021-#1</b>  
 <div style="text-align: center;">
 <b>Deriving centimeter-level coseismic deformation and fault geometries of small-to-moderate earthquakes from time-series Sentinel-1 SAR images</b>  
