@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>2021-#6</b>  
+<b>2021-#2</b>  
 <div style="text-align: center;">
 <b>Small Fractures Caused by the 2019 Ridgecrest Earthquake Sequence: Insights from 3D coseismic displacement and uniaxial loading rock experiments</b>  
 <br><b>由2019年Ridgecrest地震序列引起的地表小裂隙:基于三维同震位移和单轴加载岩石实验的研究</b>  
-<br><a href="https://doi.org/10.3389/feart.2021.672809">Xu, A., Y. Zhao, T. Wang*, C. Ren, and H. Yue (2021), Small Fractures Caused by the 2019 Ridgecrest Earthquake Sequence: Insights From 3D Coseismic Displacement and Uniaxial Loading Rock Experiments, , 9(June), 1–11, doi:10.3389/feart.2021.672809. 9.</a>
+<br><a href="https://doi.org/10.3389/feart.2021.672809">Xu, A., Y. Zhao, T. Wang*, C. Ren, and H. Yue (2021), Small Fractures Caused by the 2019 Ridgecrest Earthquake Sequence: Insights From 3D Coseismic Displacement and Uniaxial Loading Rock Experiments. Frontiers in Earth Science, 9(June), 1–11.</a>
 </div>
 
 
