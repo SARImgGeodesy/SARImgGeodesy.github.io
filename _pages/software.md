@@ -82,12 +82,10 @@ If you'd like to use the trail version for teaching, much appreciate if you coul
 
 # LICSBAS for Windows
 > Forked from the original [LICSBAS](https://github.com/yumorishita/LiCSBAS) and revised the code to support running on windows.
-> {% btn 'https://github.com/Wu-Patrick/LiCSBAS',See revised source code,far fa-hand-point-right,pink larger %}
+> [Revised source code](https://github.com/Wu-Patrick/LiCSBAS)
 
 LiCSBAS is an open-source package in Python and bash to carry out InSAR time series analysis using LiCSAR products (i.e., unwrapped interferograms and coherence) which are freely available on the [COMET-LiCS web portal](https://comet.nerc.ac.uk/COMET-LiCS-portal/).
 
 Users can easily derive the time series and velocity of the displacement if sufficient LiCSAR products are available in the area of interest. LiCSBAS also contains visualization tools to interactively display the time series of displacement to help investigation and interpretation of the results.
 
 [See tutorial](https://wuzhipeng.cn/2021/03/30/LiCSBAS/)
-
-
