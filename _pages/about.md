@@ -12,10 +12,10 @@ redirect_from:
 
 ![main_page_banner](/images/main_page_banner.jpg)    
 
-    Synthetic Aperture Radar (SAR) is an active microwave remote-sensing sensor that emits electromagnetic waves and records the signals reflected back from the earth, forming radar images. Microwave signals are transmitted and received independent of sunlight and can penetrate through clouds, SAR imaging is thus not affected by illumination or meteorological conditions. The amplitude and phase information in SAR images can be processed to accurately measure the deformation of the earth's surface in a range from a few millimeters to tens of meters, playing an indispensable role in basic research and application fields such as geophysics, environment monitoring and nature hazard. Our research involves digital signal processing, elasticity/fluid mechanics, physical model inversion, big data and artificial intelligence and etc.
+Synthetic Aperture Radar (SAR) is an active microwave remote-sensing sensor that emits electromagnetic waves and records the signals reflected back from the earth, forming radar images. Microwave signals are transmitted and received independent of sunlight and can penetrate through clouds, SAR imaging is thus not affected by illumination or meteorological conditions. The amplitude and phase information in SAR images can be processed to accurately measure the deformation of the earth's surface in a range from a few millimeters to tens of meters, playing an indispensable role in basic research and application fields such as geophysics, environment monitoring and nature hazard. Our research involves digital signal processing, elasticity/fluid mechanics, physical model inversion, big data and artificial intelligence and etc.
 
  
-    合成孔径雷达（Synthetic Aperture Radar - SAR）是一种主动型微波遥感传感器，通过发射电磁波并记录地面反射回卫星的微波信号得到雷达影像。微波信号的发射和接收不依赖阳光并可以穿透云层，所以SAR成像不受光照和气象条件的约束。利用SAR影像的强度和相位信息可以对地表几毫米到数十米的形变进行精确量测，在地球物理、环境监测、防灾减灾等基础研究和应用领域均起到不可或缺的作用。我们的研究涉及数字信号处理、弹性/流体力学、物理模型反演、大数据分析和人工智能等多个学科。
+合成孔径雷达（Synthetic Aperture Radar - SAR）是一种主动型微波遥感传感器，通过发射电磁波并记录地面反射回卫星的微波信号得到雷达影像。微波信号的发射和接收不依赖阳光并可以穿透云层，所以SAR成像不受光照和气象条件的约束。利用SAR影像的强度和相位信息可以对地表几毫米到数十米的形变进行精确量测，在地球物理、环境监测、防灾减灾等基础研究和应用领域均起到不可或缺的作用。我们的研究涉及数字信号处理、弹性/流体力学、物理模型反演、大数据分析和人工智能等多个学科。
 
  
 
