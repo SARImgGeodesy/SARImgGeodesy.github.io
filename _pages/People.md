@@ -40,7 +40,12 @@ We are always open to both prospective students and potential postdoctoral resea
 
 * **Bahruz Ahadov** (Boya Fellowship)  
   Tectonic deformation modeling
+  
+## Research Assisstant
 
+* **Qi Zhang**  
+  AI in InSAR and change detection
+  
 ## Phd Students
 2021  
 
