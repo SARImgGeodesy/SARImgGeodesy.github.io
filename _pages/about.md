@@ -22,7 +22,7 @@ Synthetic Aperture Radar (SAR) is an active microwave remote-sensing sensor that
 
 ## **Selected publications**
 
-* **Teng Wang\***, Liqing Jiao, Paul Tapponnier, Xuhua Shi, and Shengji Wei (2020), Space Imaging Geodesy Reveals Near Circular, Coseismic Block Rotation During the 2016 Mw 7.8 Kaikōura Earthquake, New Zealand, Geophys. Res. Lett., 47(22), e2020GL090206
+* **Teng Wang\***, Liqing Jiao, Paul Tapponnier, Xuhua Shi, and Shengji Wei, Space Imaging Geodesy Reveals Near Circular, Coseismic Block Rotation During the 2016 Mw 7.8 Kaikōura Earthquake, New Zealand, Geophysical Research Letters, 2020, 47(22), e2020GL090206
 
 * **Teng Wang\***, Qibin Shi, Mehdi Nikkhoo, Shengji Wei\*, Sylvain Barbot, Douglas S Dreger\*, Roland Burgmann, Mahdi Motagh, Qifu Chen, The rise, collapse, and compaction of Mt. Mantap from the 3 September 2017 North Korean nuclear test, Science, 2018, 361(6398), 166-170.
 
