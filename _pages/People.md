@@ -31,17 +31,29 @@ We are always open to both prospective students and potential postdoctoral resea
 
 ## Post-docs
 
+2021
+
+* **Heng Luo**  
+  Coseismic deformation of small-to-moderate earthquakes
+  
 2020
 
 * **Bahruz Ahadov** (Boya Fellowship)  
   Tectonic deformation modeling
 
 ## Phd Students
+2021  
 
+* **Weilai Sun**  
+  Parallel/Distributed Computing with InSAR
+  
+* **Hang Xu**  
+  Large-scale SAR interferometry and applications to coastal deformation
+  
 2020  
 
 * **Zhen Li**  
-  Coseismic deformation and fault geometry
+  Coseismic deformation of large strike-slip earthquakes
 
 * **Ziming Liu**  
   Large-scale SAR interferometry and applications to earthquake cycles   
@@ -52,15 +64,15 @@ We are always open to both prospective students and potential postdoctoral resea
 2019
 
 * **Wenzhi Fan**   
-  Atmospheric related signals in InSAR  
+  Large-scale SAR interferometry and applications to surface loading  
 
 ### **Co-supervised with relevant projects in our group**
 
 * **Jin Ge** (with Prof. Xuhua Shi, Zhejiang University)  
   Contemporary surface deformation of the Pamir fault system from InSAR  
 
-* **Andong Xu** (with Prof. Yonghong Zhao, Peking University)  
-  Coseismic ruptures and fractures  
+* **Zhipeng Wu** (with Prof. Yu Wang, University of Chinese Academy of Sciences)  
+  AI in phase unwrapping and filtering 
 
 <style type="text/css">
 a:link,a:visited{
@@ -75,8 +87,6 @@ a:hover{
 * **<a href="https://wuzhipeng.cn/">Zhipeng Wu</a>** (with Prof. Yu Wang, University of Chinese Academy of Sciences)   
   AI in time-series InSAR analysis  
 
-* **Heng Luo** (with Prof. Mingsheng Liao, Wuhan University)  
-  Small and deep earthquakes  
 
 
 
@@ -93,15 +103,11 @@ a:hover{
   Deformation and mechanism of loess landslides   
 
 * **Yuqing He** (with Prof. Li Zhao, Peking University)  
-  Coseismic deformation and fault geometry   
-
-* **Ru Liu** (with Prof. Yonghong Zhao, Peking University)  
-  Coseismic landslides triggering  
-
-* **Qi Zhang** (with Prof. Yonghong Zhao, Peking University)  
-  AI in InSAR and change detection  
+  Coseismic deformation and fault geometry     
 
 ## Supervised undergraduate projects:
+2021
+* **Weilai Sun**: Optimization of calculating speed based on small baselines inversion calculation in LICSBAS
 
 2020  
 
@@ -113,3 +119,20 @@ a:hover{
 
 * **Haichuan Li**: Using SAR image to detect landslides induced by Wenchuan earthquake and its spatial distribution  
 * **Cailin Jia**: Titan in Synthetic Aperture Radar Images  
+
+## Alumni
+
+* **Ru Liu** (with Prof. Yonghong Zhao, Peking University)  
+ Coseismic landslides triggering
+
+* **Qi Zhang** (with Prof. Yonghong Zhao, Peking University)  
+ AI in InSAR and change detection  
+ Now at my group as research assistant
+
+* **Andong Xu** (with Prof. Yonghong Zhao, Peking University)  
+Coseismic ruptures and fractures
+
+
+* **Heng Luo** (with Prof. Mingsheng Liao, Wuhuan University)  
+ Small and deep earthquakes  
+ Now at my group as post-doc
