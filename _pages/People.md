@@ -71,9 +71,6 @@ We are always open to both prospective students and potential postdoctoral resea
 * **Jin Ge** (with Prof. Xuhua Shi, Zhejiang University)  
   Contemporary surface deformation of the Pamir fault system from InSAR  
 
-* **Zhipeng Wu** (with Prof. Yu Wang, University of Chinese Academy of Sciences)  
-  AI in phase unwrapping and filtering 
-
 <style type="text/css">
 a:link,a:visited{
  text-decoration:none;  /*超链接无下划线*/
@@ -85,7 +82,7 @@ a:hover{
 }</style>
 
 * **<a href="https://wuzhipeng.cn/">Zhipeng Wu</a>** (with Prof. Yu Wang, University of Chinese Academy of Sciences)   
-  AI in time-series InSAR analysis  
+  AI in phase unwrapping and filtering   
 
 
 
