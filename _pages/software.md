@@ -66,15 +66,15 @@ Sentinel-1 干涉处理器是北京大学[雷达影像测地学团队](https://s
 
 ## Click to download
 
-<img src="/images/Trial version logo.png" width = "40" height = "40" href="https://gitlab.com/Wu-Patrick/mydownload/-/raw/main/Sentinel-1Processor.zip"/> [Download](https://gitlab.com/Wu-Patrick/mydownload/-/raw/main/Sentinel-1Processor.zip)
+<a href="https://gitlab.com/Wu-Patrick/mydownload/-/raw/main/Sentinel-1Processor.zip"> <img src="/images/Trial version logo.png" width = "40" height = "40" /> </a> [Download](https://gitlab.com/Wu-Patrick/mydownload/-/raw/main/Sentinel-1Processor.zip)
 
 If you'd like to use the trail version (can process images acquired in 2019 and 2020) for teaching, much appreciate if you could let us know your affiliation and some basic information about your class. Feedbacks from you and your students will help us improve the software.
 
 ## Manual
 
-<img src="/images/manual logo.png" width = "40" height = "40" /> [中文](/files/哨兵1数据处理软件手册-v1.0.pdf)
+<a href="/files/哨兵1数据处理软件手册-v1.0.pdf"><img src="/images/manual logo.png" width = "40" height = "40" /></a> [中文](/files/哨兵1数据处理软件手册-v1.0.pdf)
 
-<img src="/images/manual logo.png" width = "40" height = "40" /> [English](/files/Sentinel1Processor_Mannual-v1.0.pdf)
+<a href="/files/Sentinel1Processor_Mannual-v1.0.pdf"><img src="/images/manual logo.png" width = "40" height = "40" /></a> [English](/files/Sentinel1Processor_Mannual-v1.0.pdf)
 
 ---
 
