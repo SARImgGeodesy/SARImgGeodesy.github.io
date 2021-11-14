@@ -35,7 +35,7 @@ By the end of this course, participants will be able to understand how SAR works
 
 ## Teaching plan
 
-**Ch 0.  Introduction 绪论**
+**Ch 0.  Introduction \| 绪论**
 
 0.1	Introduction to  geodesy \| 大地测量概述
 
@@ -44,7 +44,7 @@ By the end of this course, participants will be able to understand how SAR works
 0.3	SAR Imaging Geodesy and Applications \| 雷达影像测地学应用及案例
 
 
-**Ch 1. 	Introduction to SAR Satellites | SAR卫星简介**
+**Ch 1. 	Introduction to SAR Satellites \| SAR卫星简介**
 
 1.1	Orbit of satellite \| 对地观测卫星轨道
 
@@ -53,7 +53,7 @@ By the end of this course, participants will be able to understand how SAR works
 1.3	Data hub and processing tools \| 数据下载和处理工具
 
 
-**Ch 2. 	Principle of SAR imaging | SAR成像原理**
+**Ch 2. 	Principle of SAR imaging \| SAR成像原理**
 
 2.1	Synthetic Aperture Radar \| 合成孔径雷达成像原理
 
@@ -65,7 +65,7 @@ By the end of this course, participants will be able to understand how SAR works
 
 
 
-**Ch 3.	 SAR Amplitude images | 幅度影像**
+**Ch 3.	 SAR Amplitude images \| 幅度影像**
 
 3.1	Target scattering mechanism \| 目标散射特性
 
@@ -77,7 +77,7 @@ By the end of this course, participants will be able to understand how SAR works
 
 
 
-**Ch 4. 	SAR imaging geometry | SAR成像几何**
+**Ch 4. 	SAR imaging geometry \| SAR成像几何**
 
 4.1 	SAR slant-range imaging geometry \| SAR斜视成像几何
 
@@ -90,7 +90,7 @@ By the end of this course, participants will be able to understand how SAR works
 
 
 
-**Ch 5. 	Image cross-correlation and pixel offsets | 影像互相关和像素偏移**
+**Ch 5. 	Image cross-correlation and pixel offsets \| 影像互相关和像素偏移**
 
 5.1 	Cross-correlation \| 互相关计算
 
@@ -102,7 +102,7 @@ By the end of this course, participants will be able to understand how SAR works
 
 
 
-**Ch 6. 	SAR interferometry | 干涉测量**
+**Ch 6. 	SAR interferometry \| 干涉测量**
 
 6.1 	Interferogram formation \| 干涉图的形成
 
@@ -115,7 +115,7 @@ By the end of this course, participants will be able to understand how SAR works
 
 
 
-**Ch 7. 	Coherence and change detection | 相干性和变化检测**
+**Ch 7. 	Coherence and change detection \| 相干性和变化检测**
 
 7.1 	Changes in SAR images \| 不同时相SAR影像变化
 
@@ -127,7 +127,7 @@ By the end of this course, participants will be able to understand how SAR works
 
 
 
-**Ch 8. 	Phase unwrapping | 相位解缠**
+**Ch 8. 	Phase unwrapping \| 相位解缠**
 
 8.1 	Principle of phase unwrapping \| 相位解缠问题的提出及基本解决思路
 
@@ -140,7 +140,7 @@ By the end of this course, participants will be able to understand how SAR works
 
 
 
-**Ch 9. 	Three-dimensional displacement inversion | 三维形变反演**
+**Ch 9. 	Three-dimensional displacement inversion \| 三维形变反演**
 
 9.1 	Principle of 3D displacement inversion \| 三维形变反演原理
 
@@ -152,7 +152,7 @@ By the end of this course, participants will be able to understand how SAR works
 
 
 
-**Ch 10. 	Ionospheric and atmospheric delays | 电离层和大气延迟**
+**Ch 10. 	Ionospheric and atmospheric delays \| 电离层和大气延迟**
 
 10.1 	Ionospheric delay \| 电离层延迟
 
@@ -165,7 +165,7 @@ By the end of this course, participants will be able to understand how SAR works
 
 
 
-**Ch 11. Time-series InSAR analysis and applications | 时间序列InSAR分析及应用**
+**Ch 11. Time-series InSAR analysis and applications \| 时间序列InSAR分析及应用**
 
 11.1 	Principle of time-series InSAR analysis \| 时间序列InSAR分析基本原理
 
@@ -178,7 +178,7 @@ By the end of this course, participants will be able to understand how SAR works
 
 
 
-**Ch 12. Conclusions | 总结和展望**
+**Ch 12. Conclusions \| 总结和展望**
 
 12.1 	Further SAR missions and applications \| 未来SAR卫星计划和新的应用场景
 
