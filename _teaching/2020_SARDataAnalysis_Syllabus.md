@@ -39,7 +39,7 @@ By the end of this course, participants will be able to understand how SAR works
  
 ## Teaching Plan
 
-**Ch 0.   Introduction 绪论**  
+**Ch 0.  Introduction 绪论**
 
 0.1	Introduction to  geodesy | 大地测量概述
 
