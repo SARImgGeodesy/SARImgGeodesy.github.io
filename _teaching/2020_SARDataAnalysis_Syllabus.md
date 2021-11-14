@@ -223,7 +223,7 @@ By the end of this course, participants will be able to understand how SAR works
 
  
 
-#### Session 1: Proposal writing (Week 1-6, 30%) 
+### Session 1: Proposal writing (Week 1-6, 30%) 
 
  
 
@@ -283,7 +283,7 @@ Select one paper from any topic you are interested in, or a paper you selected b
 
 
 
-#### **Session 2: SAR image analysis lectures (Week 7-16, 40%)**
+### **Session 2: SAR image analysis lectures (Week 7-16, 40%)**
 
  
 
@@ -457,7 +457,7 @@ Select one paper from any topic you are interested in, or a paper you selected b
 
  
 
-#### **Session 3: Report writing and presenting (Week 15-17, 30%)**
+### **Session 3: Report writing and presenting (Week 15-17, 30%)**
 
  
 
