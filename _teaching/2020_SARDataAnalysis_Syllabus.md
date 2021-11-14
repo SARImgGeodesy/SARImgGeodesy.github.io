@@ -36,7 +36,6 @@ By the end of this course, participants will be able to understand how SAR works
 (https://disk.pku.edu.cn:443/link/14BA903E57C3E57694CAE260FB5F7018)
 
 
-## Teaching Plan
 
 **Ch 0.  Introduction 绪论**
 
