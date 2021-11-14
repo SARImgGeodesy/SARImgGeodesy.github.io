@@ -37,11 +37,11 @@ By the end of this course, participants will be able to understand how SAR works
 
 **Ch 0.  Introduction 绪论**
 
-0.1	Introduction to  geodesy | 大地测量概述
+0.1	Introduction to  geodesy \| 大地测量概述
 
-0.2	Introduction to SAR systems | SAR系统概述
+0.2	Introduction to SAR systems \| SAR系统概述
 
-0.3	SAR Imaging Geodesy and Applications | 雷达影像测地学应用及案例
+0.3	SAR Imaging Geodesy and Applications \| 雷达影像测地学应用及案例
 
 
 **Ch 1. 	Introduction to SAR Satellites | SAR卫星简介**
