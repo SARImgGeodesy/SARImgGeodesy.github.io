@@ -4,7 +4,7 @@ collection: teaching
 type: "Lectures about InSAR"
 permalink: /teaching/SARDataAnalysis_Syllabus
 location: "Beijing, China"
-
+data: 2021
 
 
 ---
