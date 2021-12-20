@@ -4,6 +4,20 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
+<b>2021-#6</b>  
+<div style="text-align: center;">
+<b>The 2020 Mw 6.0 Jiashi Earthquake: Coinvolvement of Thin-Skinned Thrusting and Basement Shortening in Shaping the Keping-Tage Fold-and-Thrust Belt in Southwestern Tian Shan</b>  
+<br><b>2020年Mw6.0伽师地震：天山西南浅部柯坪逆冲断层和深部基底缩短的共同作用</b>  
+<br><a href="https://doi.org/10.1785/0220210063">He, Y., T. Wang, L. Fang, and L. Zhao (2021). The 2020 Mw 6.0 Jiashi Earthquake: Coinvolvement of Thin-Skinned Thrusting and Basement Shortening in Shaping the Keping-Tage Fold-and-Thrust Belt in Southwestern Tian Shan, Seismol. Res. Lett. 1–13,doi: 10.1785/0220210063.</a>
+</div>
+The Keping-tage fold-and-thrust belt in southwest Tian Shan is seismically active, yet the most well-recorded earthquakes occurred south of the mountain front. The lack of large earthquakes beneath the fold-and-thrust belt thus hinders our understanding of the orogenic process to the north. The 2020 Mw 6.0 Jiashi earthquake is an important event with surface deformation in the fold-and-thrust belt well illuminated by Interferometric Synthetic Aperture Radar, providing an opportunity to study the present day kinematics of the thrust front through the analysis of satellite measurements of surface deformations. Here, we employ the surface deformation and relocated aftershocks to investigate the fault-slip distribution associated to this event. Further added by an analysis of Coulomb stress changes, we derive a fault model involving slips on a shallow, low-angle (~10°) north-dipping thrust fault as well as on a left-lateral tear fault and a high-angle south-dipping reverse fault in mid-crust. Aftershocks at depth reflect the basement-involved shortening activated by a thin-skinned thrust faulting event. In addition, this earthquake uplifted the southernmost mountain front with relatively low topography, indicating the basin-ward propagation of the southwest Tian Shan.
+
+天山西南部的柯坪塔格逆冲推覆体地震活跃，但有观测记录的地震主要发生在塔里木盆地，逆冲推覆体下方地震观测较少。2020年的Mw6.0伽师地震发生在逆冲推覆体前缘与塔里木盆地交界区域，我们利用InSAR技术获得了此次地震在逆冲推覆体造成的地表形变，并结合余震重定位观测确定了此次事件的发震断层几何及滑移分布。进一步结合库仑应力变化分析，我们认为此次事件包含三断层破裂：柯坪塔格推覆体前缘的柯坪断层浅部低倾角段（~10.2°）、深部滑脱面下的左旋走滑断层和塔里木盆地下方的高倾角基底断层。主破裂区以东的余震表明可能存在右旋走滑盲断层，连同西侧的左旋走滑断层，呈现出以两个撕裂断层为界的类盒状挤压结构。我们推测深部走滑撕裂断层可能延伸至逆冲褶皱带以南，以调节柯坪塔格推覆体前缘不一致的缩短速率。此次地震在地形较低的造山带前缘造成地表抬升，表明西南天山造山形变向盆地侧的进一步拓展。
+
+<div style="text-align: center;"> <img src="/images/hyq1.jpg" alt="softwareTitleEn" width="900"> <br>Map views of the slip distributions on (a) the shallow north-dipping fault and (b) the deep south-dipping and strike-slip faults inferred from aftershock distribution. Red, orange, and yellow beachballs depict the focal mechanism of the north-dipping thrust fault, the deep strike-slip fault and the south-dipping reverse fault, respectively. Circles represent relocated aftershocks. (c-h) Observed, predicted and the residual maps based on our preferred Model for the ascending (top row) and the descending tracks (bottom row).
+<br>最佳断层模型滑移分布及数据拟合。（a）浅部北倾低倾角断层和（b）根据余震分布推断的深部南倾高倾角断层上的滑移分布。红色、橙色和黄色的震源球分别为北倾逆冲断层、深部走滑断层和南倾断层的震源机制。圆圈代表重新定位的余震分布。（c-h）为模型数据拟合情况。（c和f）原始观测值；（d和g）模型正演值；（e和h）拟合残差。</div>
+
+---
 
 <b>2021-#5</b>  
 <div style="text-align: center;">
