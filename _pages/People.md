@@ -54,7 +54,7 @@ a:hover{
  color: red
 }</style>
 
-* **<a href="https://orcid.org/0000-0003-0709-3273">Zhang Qi</a>**  
+* **<a href="https://orcid.org/0000-0003-0709-3273">Qi Zhang</a>**  
   AI in InSAR and change detection
   
 ## Phd Students
