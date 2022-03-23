@@ -29,7 +29,7 @@ location: "Beijing, China"
 By the end of this course, participants will be able to understand how SAR works and what can be done by cutting-edge SAR imaging geodesy. I hope all participants will be able derive information from SAR images using interferometry and/or pixel-offset tracking. You will be also able to know how to start and where to learn if you want to use some advanced SAR/InSAR methods in your research. 
 
 
-**[Teaching Materials](https://disk.pku.edu.cn:443/link/14BA903E57C3E57694CAE260FB5F7018)**
+**[Teaching Materials](https://disk.pku.edu.cn:443/link/B4CEF6049534F07C6A58EF0472F1A330)**
 
 ### Teaching plan
 
