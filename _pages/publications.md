@@ -4,6 +4,85 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
+<b>2022-#6</b>  
+<div style="text-align: center;">
+<b>Systematic Comparison of InSAR and Seismic Source Models for Moderate-Size Earthquakes in Western China: Implication to the Seismogenic Capacity of the Shallow Crust</b>  
+<br><b>中国西部中小地震InSAR震源与地震目录的系统比较及对浅层地壳孕震能力的启示</b>  
+<br><a href="https://doi.org/10.1029/2022JB024794">Luo, H., T. Wang, and S. Wei (2022), Systematic Comparison of InSAR and Seismic Source Models for Moderate-Size Earthquakes in Western China: Implication to the Seismogenic Capacity of the Shallow Crust, Journal of Geophysical Research: Solid Earth, 127(10), e2022JB024794.</a>
+</div>
+Earthquake source parameters are important for understanding earthquake physics and crustal fault properties. However, strong trade-offs between parameters (e.g. depth and origin time) and a lack of accurate velocity models and near-field seismic stations could cause large uncertainties of these parameters in seismic catalogues, particularly for shallow events. To further improve the resolution of earthquake source parameters, we use Interferometric Synthetic Aperture Radar (InSAR) images to derive source solutions of 33 moderate-size (Mw4.1-6.6) earthquakes that occurred at shallow depths (<20 km) from November 2014 to July 2020, in western China. After evaluating the uncertainties of the InSAR solutions, we systematically compare the location, centroid depth, focal mechanism and magnitude from InSAR models with that from seismic catalogues. we find that all seismic catalogues generally report deeper (4-10 km) hypocenter or centroid depths. The uncertainties of moment tensor solutions are partially related to the percentage of the non-double-couple component in the seismic catalogues. The InSAR solutions indicate that considerable seismic moments (i.e. ~{2\times10}^{18} Nm) were released in the uppermost crust (i.e. <5 km) in a period of 6 years, which is not resolvable in the seismic catalogues. The smooth seismic moment distribution along depth indicates a gradual change of the frictional properties from the surface to the middle crust. As most of the studied earthquakes are located on secondary and/or unmapped faults, these findings imply a considerable portion of velocity-weakening friction in the uppermost crust along immature, secondary fault systems, which should be included in the seismic hazard evaluation.
+
+震源参数对于理解地震物理和地壳断层性质至关重要。然而，震源参数（例如深度和震源起始时间）之间的强烈制约以及准确速度模型和近场地震台站的缺乏可能会导致地震目录中的这些参数具有很大不确定性，特别是对于浅层地震。为了进一步提高震源参数的分辨率，我们使用干涉合成孔径雷达(InSAR)数据，获取2014年11月至2020年7月发生在中国西部浅层(<20 km)的33次中小地震(Mw4.1-6.6)的震源模型。在评估InSAR解的不确定性之后，我们系统地比较了InSAR模型和地震目录中的位置、质心深度、震源机制和震级。我们发现，地震目录通常获得更深（4-10km）的震源或质心深度。此外，地震目录得到的矩张量解的不确定性可能与非双偶分量的百分比有关。InSAR震源结果表明，在6年的时间里，最上层地壳(<5km)释放了相当大的地震矩(~{2\times10}^{18}Nm)，这在现在地震目录中是无法分辨出来的。地震矩沿深度的平滑分布表明摩擦性质从地表到中地壳渐变式发生变化。由于本文所研究的大多数地震位于次级和/或未发现的断层上，这意味着未成熟次级断层系统的最上层地壳中存在一定的速度弱化的摩擦性质，应将其纳入地震危险性评估中。
+
+<div style="text-align: center;"> <img src="/images/2022-6.jpg" alt="softwareTitleEn" width="900"> <br>Overview of the 33 studied earthquakes (Mw 4.1–6.6) with the red dots indicating their locations. Beachballs represent focal mechanisms from the U.S. Geological Survey (USGS) catalog (green), Global Centroid Moment Tensor (GCMT) catalog (cyan), and Interferometric Synthetic Aperture Radar (InSAR) inversions (red). Abbreviations of the fault names are ATF-Altyn Tagh fault, KLF-Kunlun fault, LMSF-Longmenshan fault, XSHF-Xianshuihe fault, KKF-Karakorum fault, JLF-Jiali fault, HYF-Haiyuan fault and HFT-Himalayan frontal thrust. The number (1–33) before the magnitude of each event is the sequence number arranged according to their GCMT magnitudes in a descending way. In case the GCMT solution is not available, the USGS solution is used.
+
+<br>本文研究的33个中小地震(Mw4.1-6.6)概览，红色圆点表示其位置。沙滩球(beachball)分别表示USGS目录(绿色)、GCMT目录(青色)和InSAR反演的震源机制(红色)。断层名称缩写为ATF-阿尔金唐古拉断层、KLF-昆仑断层、LMSF-龙门山断层、XSHF-鲜水河断层、KKF-喀喇昆仑断层、JLF-嘉里断层、HYF-海原断层、HFT-喜马拉雅山前冲断层。每个事件震级前的数字(01-33)是根据GCMT目录中震级的降序排列的序列号。如果GCMT目录中没有，则使用USGS目录中的震级。</div>
+
+---
+
+<b>2022-#5</b>  
+<div style="text-align: center;">
+<b>The 2021 Mw6.7 Lake Hovsgol (Mongolia) Earthquake: Irregular Normal Faulting with Slip Partitioning Controlled by an Adjacent Strike-Slip Fault</b>  
+<br><b>结合InSAR相位梯度叠加和深度学习网络探测活动滑坡</b>  
+<br><a href="https://doi.org/10.3390/rs14184553">2021 6.7 Mw6.7 蒙古Hovsgol地震：邻近走滑断层控制的斜拉张盆地边界断层滑移分配
+He, Y.; T. Wang, L. Zhao (2022) The 2021 Mw6.7 Lake Hovsgol (Mongolia) Earthquake: Irregular Normal Faulting with Slip Partitioning Controlled by an Adjacent Strike-Slip Fault. Remote Sens., 14, 4553.
+</a>
+</div>
+In transtensional regions, structures striking obliquely to the extension direction generally exhibit oblique or partitioned slips. However, their on-fault partitioning patterns and controlling factors are less known, hindering our understanding of the evolution of the rifting process. Here, we study the slip distribution of the 2021 Mw6.7 Lake Hovsgol (Mongolia) earthquake occurred in a pull-apart basin using InSAR observations. Our preferred slip model shows a remarkable feature, with three zones exhibiting distinct slip directions at different depths. The Coulomb stress change analysis reveals that this pattern is likely controlled by the left-lateral motion of the Mondy Fault to the north, which also inhibits the growth of a boundary fault to the east of the lake, shaping the asymmetric graben structure in this region. Our results imply the important role of major strike-slip faults bounding the pull-apart basin in the formation and evolution of the oblique rift.
+
+在转换拉张区域，伸展方向与区域最大拉张方向间存在夹角的构造通常会表现出斜滑或滑移分配现象。2021年蒙古Mw6.7地震是仪器记录到的发生在Hovsgol拉张盆地内最大震级的地震。本研究利用来自不同传感器的升降轨雷达影像获取了此次事件地表视线向形变并分解得到东西向和垂直向形变场。基于该数据集获得了最佳断层几何及滑移分布。结果表明，此次地震以正断滑动为主兼有明显的右旋走滑分量，倾滑和走滑分布不均匀，断层面上出现滑移分配现象。通过应力分析发现Hovsgol湖北部的大型左旋走滑断层Mondy Fault促进了发震断层的滑移分配，同时抑制了Hovsgol湖东岸西倾正断层的生长，对Hovsgol湖半地堑结构起到塑造作用。
+
+<div style="text-align: center;"> <img src="/images/2022-5.png" alt="softwareTitleEn" width="900"> <br>Fault slip distribution of the preferred fault model for the 2021 Mw6.7 Lake Hovsgol (Mongolia) Earthquake. (a–c) Total, strike, and dip slips of the optimal fault model, respectively. The black dots represent aftershocks within 2 months after the mainshock. The beachballs in (a) display focal mechanisms of the Mw6.7 event from this study, USGS, Global CMT, and GFZ. (d) The 3D view of the fault slip distribution.
+<br>2021 6.7 Mw6.7 蒙古Hovsgol地震最佳断层滑动分布模型。（a–c）分别为断层总滑动量、走滑量和倾滑量二维分布。黑色圆点表示主震后2个月内的余震分布。（a）中沙滩球分别为本研究、USGS、GCMT和GFZ给出的此次事件震源机制。（d）断层滑动三维分布视图。</div>
+
+---
+
+<b>2022-#4</b>  
+<div style="text-align: center;">
+<b>Strain Partitioning on the Western Haiyuan Fault System Revealed by the Adjacent 2016 Mw5.9 and 2022 Mw6.7 Menyuan Earthquakes</b>  
+<br><b>2016年Mw5.9和2022年Mw6.7门源地震揭示的海原断裂系统西段的应变分配</b>  
+<br><a href="https://doi.org/10.1029/2022GL099348">Luo, H., and T. Wang (2022), Strain Partitioning on the Western Haiyuan Fault System Revealed by the Adjacent 2016 Mw5.9 and 2022 Mw6.7 Menyuan Earthquakes, Geophys Res Lett, 49(16), e2022GL099348.</a>
+</div>
+
+The 1,000 km-long Haiyuan fault is the largest strike-slip fault system in the northeastern Tibetan Plateau, accommodating part of the plateau's eastward extrusion. However, few large earthquakes have been instrumentally recorded, hindering our understanding of strain partitioning across the fault system. Here, we use synthetic aperture radar images to investigate fault geometries and slip distributions of the adjacent 2016 Mw5.9 and 2022 Mw6.7 Menyuan earthquakes that occurred 35 km apart along the western Haiyuan fault system. The purely strike and purely thrust slips of the 2022 and 2016 events indicate that strain was released separately on shallow steep fault and low-angle fault at depth. We propose that such strain partitioning is controlled by the ratio between interseismic shear and normal velocities and the branching fault structure beneath the Lenglongling segment. Seismic hazard due to both focal mechanisms has to be considered along the western Haiyuan fault in northeastern Tibet.
+1000公里长的海原断裂带是青藏高原东北缘最大的走滑断层系统，调节了青藏高原的向东挤压。然而，海原断层上仪器记录的大地震很少，阻碍了我们该断层系统应变分配的理解。我们使用合成孔径雷达图像来研究发生在海原断裂系统西端上相距35公里的2016年Mw5.9和2022年Mw6.7门源地震的断层几何和滑动分布。2022年地震的纯走滑机制和2016年地震的纯逆冲机制表明应变分别在浅部高倾角断层和深部低角度断层上释放。我们认为这种应变分配受震间剪切速度与缩短速率之比以及冷龙岭下方的分支断层几何结构控制。海原断层西端需要同时考虑这两种震源机制地震引起的灾害。
+
+<div style="text-align: center;"> <img src="/images/2022-4.jpg" alt="softwareTitleEn" width="900"> <br>Schematic illumination of 2016 Mw5.9 and the 2022 Mw6.7 Menyuan earthquakes. The fault slips projected on the depth profile are normalized to the maximum averaging slip with projected moment sensors represented as black and red beachballs. The depth profile is perpendicular to the Lenglongling (LLL) fault and the map region is denoted by the red box in Figure 1. Blue and orange dots represent the relocated aftershocks of the 2016 and 2022 events from Liang et al. (2017) and Yang et al. (2022), respectively. Black lines represent the trace of the Haiyuan fault. Note that the shortening rate is less than 1 mm/yr and the strike-slip rate is ∼4–6 mm/yr on the LLL segment from Huang et al. (2022).
+<br>2016年Mw5.9和2022年Mw6.7门源地震的示意图。深度剖面垂直于冷龙岭断层，均一化的滑移分布投影到了深度剖面上。蓝色和橙色圆点分别表示两次地震的余震分布。黑线代表海原断层。</div>
+
+---
+
+<b>2022-#3</b>  
+<div style="text-align: center;">
+<b>Could thermal pressurization have induced the frequency-dependent rupture during the 2019 Mw8.0 Peru intermediate-depth earthquake?</b>  
+<br><b>热增压作用是否导致了2019年秘鲁Mw8.0中源地震的频率相关破裂? </b>  
+<br><a href="https://doi.org/10.1093/gji/ggac329">Luo, H., H. Zeng, Q. Shi, T. Wang, M. Liao, J. Hu, and S. Wei (2022), Could thermal pressurization have induced the frequency-dependent rupture during the 2019 Mw8.0 Peru intermediate-depth earthquake?, Geophysical Journal International, 232(1), 115-127.</a>
+</div>
+The rupture process of earthquakes at intermediate-depth (∼70–300 km) have rarely been illuminated by a joint analysis of geodetic and seismic observations, hindering our understanding of their dynamic rupture mechanisms. Here we present detailed rupture process of the 2019Mw8.0 Peru earthquake at the depth of 122 km depth, derived with a holistic approach reconciling InSAR and broad-band seismic waveform data. The joint inversion of InSAR observations and teleseismic body waves results in a finite rupture model that extends ∼200 km along strike, with unilateral rupture towards north that lasted for ∼60 s. There are four major slip patches in the finite fault model which are well corresponding to the position and timing of the sources in back-projection and multiple points source results. The largest slip patch, which occurred ∼40 s after the rupture initiation, had a longer and smoother rise time, and radiated much weaker high-frequency seismic waves compared to other smaller slip patches. This distinct frequency-dependent rupture could be explained by a strong dynamic weakening mechanism. We question whether thermal pressurization of pore free water rather than thermal run away could be such a mechanism. Our frequency content analysis could be generalized to study other earthquakes including those deeper than 300 km.
+
+中等深度地震的破裂过程(∼70–300 km）很少被大地测量和地震观测的联合分析所阐明，这阻碍了我们对其动态破裂机制的理解。本文基于InSAR和宽频带地震波数据，研究了2019年122 km 深度的Mw8.0秘鲁地震的详细破裂过程。InSAR观测和远震体波的联合反演得到了有限破裂模型，其走向长度约200公里，单侧向北破裂，持续时间约为60秒。有限断层模型中有四个主要的滑动区域，它们与反投影和多点源反演方法得到的子事件的位置和时间非常对应。最大的破裂区域在地震发生后40秒开始破裂，与其他三个较小的滑动区域相比，其滑动持续时间更长，辐射的高频地震波更弱。这种与频率有关的断裂可以用动态破裂弱化机制来解释，我们认为该机制由孔隙自由水的热加压而非热熔融引起。本文的震源地震波频率分析可以推广到其他地震研究，包括深度超过300公里的地震。
+
+<div style="text-align: center;"> <img src="/images/2022-3.png" alt="softwareTitleEn" width="900"> <br>Schematic map of the 26 May 2019 Peru earthquake and subducted Nazca slab in Peru. Thermal structure is represented by coloured lines (details of thermal structure model (Stadler et al. 2010) are shown in Fig. S17). The inset shows the projection of CMT events in this region on a vertical cross-section in the schematic map. Dashed line shows the midplane. Green star in slip projection on the profile represents the hypocentre of the earthquake.
+<br>2019年5月26日秘鲁地震以及秘鲁纳斯卡板块俯冲示意图。俯冲板块的温度用彩色线表示。插图显示了该区域地震在剖面上的垂直投影，虚线显示俯冲板块中线。剖面上滑动投影中的绿色五星表示2019年秘鲁地震的震源位置。</div>
+
+---
+
+<b>2022-#2</b>  
+<div style="text-align: center;">
+<b>Water-temperature controlled deformation patterns in Heifangtai loess terraces revealed by wavelet analysis of InSAR time series and hydrological parameters</b>  
+<br><b>利用小波分析方法从InSAR时序和水文参数中揭示水-温控制的黑方台黄土滑坡形变模式</b>  
+<br><a href="https://doi.org/10.3389/fenvs.2022.957339">Cao Z. and T. Wang (2022), Water-temperature controlled deformation patterns in Heifangtai loess terraces revealed by wavelet analysis of InSAR time series and hydrological parameters. Front. Environ. Sci. 10:957339. </a>
+</div>
+Loess deposits are widely distributed in western and central China. Because loess is wet-collapsible, loess mass is prone to failure after water infiltration. Heifangtai, composed of two adjacent typical loess platforms located in the Loess Plateau beside the Yellow River, has experienced hundreds of landslides in the past few decades. Here, we derived surficial time-series deformation, velocity, and amplitude of seasonality from the Sentinel-1 SAR images acquired from October 2014 to March 2021 in the Heifangtai region and studied their relation with precipitation, temperature, and irrigation applying wavelet analysis. The decomposed velocities show that not only a large amount of along-slope deformation occurred surrounding the terrace but also a significant subsidence in the residential area in the middle of the platform was observed. The high seasonality areas are distributed along the Yellow River and on the terrace consistent with other water sources, e.g., springs and irrigation, revealing a promotion of a periodic water-involved process on deformation in loess. Through the wavelet analysis, we found that the temperature is almost in phase with the uplift velocity when the temperature is below the freezing point. The precipitation precedes the surface displacement of ~1 to 2 months for water penetration. The comparison between irrigation volumes and averaged displacements suggests that irrigation also plays a role in promoting subsidence from March to October but uplift in winter due to frost heave. We highlight that the retrogressions of the terraces in this region may be accelerated by both natural and anthropogenic factors. Careful monitoring and water management are highly recommended for the safety of local residences and infrastructures.
+
+黄土在中国分布广泛，因为其湿陷性，黄土体在水入渗后极易发生垮塌和崩落。本文的研究区域——黑方台，坐落在黄土高原之上，位于黄河岸边——在过去的几十年里有数百个滑坡发生。我们应用小基线数据集技术处理了哨兵1号在该区域从2014年10月到2021年3月获取的SAR影像，得到了这段时间地表位移的平均速度和位移和速度的时间序列。之后，我们使用小波变换工具分析了时序数据与降雨量、温度和灌溉量之间的相关性。该区域的平均速度场表明地表形变不仅分布在台塬边界，台塬表面也存在长期的缓慢沉降。季节性位移模型拟合的结果表明拥有较高季节性位移变化的区域不仅大量分布在台塬上，还存在于黄河两岸，且与水源（泉水或灌溉）的空间分布一一对应，这表明周期性的水文变化对黄土的地表形变具有重要的促进作用。通过小波分析，我们发现在温度低于零摄氏度的时间段内，温度与速度时间序列高度相关。使用同样的方法，我们发现降雨量领先地表位移约1-2个月。对比灌溉量和年平均位移时间序列，我们认为灌溉水的入渗对地表沉降有着很大的促进作用，但一旦在冬季当水开始渐渐冻结后，由于冻胀作用，他们反而会产生地表的抬升。在该研究中我们强调，自然和人为因素的共同作用会加速台塬的坍缩和边界的退行，而为了当地住宅和基础设施的安全，我们建议加强当地的地灾观测系统并妥善管理和安排农业用水。
+
+<div style="text-align: center;"> <img src="/images/2022-2.png" alt="softwareTitleEn" width="900"> <br>Left: spatial pattern overlaying the optic image for the mean velocities in (A) ascending LOS direction, (B) descending LOS direction, (C) vertical direction, and (D) east–west direction. 
+Right: wavelet coherence (A–D) and progression of time lag (E) on different pairs of time-series data. (A–D) show wavelet coherence between precipitation (red lines) and the displacement (blue lines) of W1, S1, M1, and M2 and variations of the time lag between them, respectively.
+
+<br>左图：叠加在光学图像上的地表速度分布图：(A)升轨雷达视线向（LOS）平均速度；(B)降轨LOS向平均速度；(C)垂直方向的平均速度；(D)东西方向的平均速度。右图：不同时间序列数据对的小波相干图(A-D)和时滞天数(E)。(A-D)分别表示降水(红线)与W1、S1、M1、M2区域的的位移(蓝线)之间的小波相干图以及它们之间的时滞关系。</div>
+
+---
 <b>2022-#1</b>  
 <div style="text-align: center;">
 <b>Detecting slow-moving landslides using InSAR phase-gradient stacking and deep-learning network</b>  
@@ -18,6 +97,7 @@ Landslides are a major geohazard that endangers human lives and properties. Rece
 <br>（A） 基于burst的相位梯度叠加算法处理流程，每个burst的相位梯度叠加和探测均在雷达坐标系下完成。（B）雅砻江中段结合相位梯度叠加和Attention-YOLOv3网络在方位向(a)和距离向(b)上探测到的活动滑坡（黑色框）。相同区域使用小基线方法(c)和解缠相位叠加(d)的对比结果，图中黑色框为（a）和(b)中的黑色框的合并结果。黑色圆圈标出了此范围内已发表的活动滑坡结果。(C) 研究区内的探测到的滑坡密度图。</div>
 
 ---
+
 <b>2021-#6</b>  
 <div style="text-align: center;">
 <b>The 2020 Mw 6.0 Jiashi Earthquake: Coinvolvement of Thin-Skinned Thrusting and Basement Shortening in Shaping the Keping-Tage Fold-and-Thrust Belt in Southwestern Tian Shan</b>  
