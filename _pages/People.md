@@ -14,7 +14,7 @@ author_profile: true
 {% endfor %}
 
 
-## Principle Investigator
+## Principal Investigator
 
 <div style="text-align: left;"> <img src="/images/PI_photo.jpg" alt="PI_photo" width = "500"> </div>  
 **Teng Wang**   
@@ -58,6 +58,14 @@ a:hover{
   AI in InSAR and change detection
   
 ## Phd Students
+2022
+
+* **Lv Fu**  
+  Large-scale SAR interferometry and applications to landslides  
+  
+* **Meiling Wen**  
+ 
+  
 2021  
 
 * **Weilai Sun**  
@@ -87,37 +95,16 @@ a:hover{
 * **Jin Ge** (with Prof. Xuhua Shi, Zhejiang University)  
   Contemporary surface deformation of the Pamir fault system from InSAR  
 
-<style type="text/css">
-a:link,a:visited{
- text-decoration:none;  /*超链接无下划线*/
- /*color: #494e52*/
-}
-a:hover{
- text-decoration:underline;  /*鼠标放上去有下划线*/
- color: red
-}</style>
-
-* **<a href="https://wuzhipeng.cn/">Zhipeng Wu</a>** (with Prof. Yu Wang, University of Chinese Academy of Sciences)   
-  AI in phase unwrapping and filtering   
-
-
-
 
 ## Master Students
 
-2019  
-
-* **Lv Fu**  
-  Large-scale SAR interferometry and applications to landslides  
 
 ### **Co-supervised with relevant projects in our group**
 
 * **Zhongcheng Cao** (with Prof. Yonghong Zhao, Peking University)  
   Deformation and mechanism of loess landslides   
 
-* **Yuqing He** (with Prof. Li Zhao, Peking University)  
-  Coseismic deformation and fault geometry     
-
+ 
 ## Supervised undergraduate projects:
 2021
 * **Weilai Sun**: Optimization of calculating speed based on small baselines inversion calculation in LICSBAS
@@ -135,6 +122,22 @@ a:hover{
 
 ## Alumni
 
+<style type="text/css">
+a:link,a:visited{
+ text-decoration:none;  /*超链接无下划线*/
+ /*color: #494e52*/
+}
+a:hover{
+ text-decoration:underline;  /*鼠标放上去有下划线*/
+ color: red
+}</style>
+
+* **<a href="https://wuzhipeng.cn/">Zhipeng Wu</a>** (with Prof. Yu Wang, University of Chinese Academy of Sciences)   
+  AI in phase unwrapping and filtering   
+
+* **Yuqing He** (with Prof. Li Zhao, Peking University)  
+  Coseismic deformation and fault geometry    
+  
 * **Ru Liu** (with Prof. Yonghong Zhao, Peking University)  
  Coseismic landslides triggering
 
@@ -144,7 +147,6 @@ a:hover{
 
 * **Andong Xu** (with Prof. Yonghong Zhao, Peking University)  
 Coseismic ruptures and fractures
-
 
 * **Heng Luo** (with Prof. Mingsheng Liao, Wuhuan University)  
  Small and deep earthquakes  
