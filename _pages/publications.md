@@ -23,9 +23,8 @@ Earthquake source parameters are important for understanding earthquake physics 
 <b>2022-#5</b>  
 <div style="text-align: center;">
 <b>The 2021 Mw6.7 Lake Hovsgol (Mongolia) Earthquake: Irregular Normal Faulting with Slip Partitioning Controlled by an Adjacent Strike-Slip Fault</b>  
-<br><b>结合InSAR相位梯度叠加和深度学习网络探测活动滑坡</b>  
-<br><a href="https://doi.org/10.3390/rs14184553">2021 6.7 Mw6.7 蒙古Hovsgol地震：邻近走滑断层控制的斜拉张盆地边界断层滑移分配
-He, Y.; T. Wang, L. Zhao (2022) The 2021 Mw6.7 Lake Hovsgol (Mongolia) Earthquake: Irregular Normal Faulting with Slip Partitioning Controlled by an Adjacent Strike-Slip Fault. Remote Sens., 14, 4553.
+<br><b>2021 6.7 Mw6.7 蒙古Hovsgol地震：邻近走滑断层控制的斜拉张盆地边界断层滑移分配</b>  
+<br><a href="https://doi.org/10.3390/rs14184553">He, Y.; T. Wang, L. Zhao (2022) The 2021 Mw6.7 Lake Hovsgol (Mongolia) Earthquake: Irregular Normal Faulting with Slip Partitioning Controlled by an Adjacent Strike-Slip Fault. Remote Sens., 14, 4553.
 </a>
 </div>
 In transtensional regions, structures striking obliquely to the extension direction generally exhibit oblique or partitioned slips. However, their on-fault partitioning patterns and controlling factors are less known, hindering our understanding of the evolution of the rifting process. Here, we study the slip distribution of the 2021 Mw6.7 Lake Hovsgol (Mongolia) earthquake occurred in a pull-apart basin using InSAR observations. Our preferred slip model shows a remarkable feature, with three zones exhibiting distinct slip directions at different depths. The Coulomb stress change analysis reveals that this pattern is likely controlled by the left-lateral motion of the Mondy Fault to the north, which also inhibits the growth of a boundary fault to the east of the lake, shaping the asymmetric graben structure in this region. Our results imply the important role of major strike-slip faults bounding the pull-apart basin in the formation and evolution of the oblique rift.
