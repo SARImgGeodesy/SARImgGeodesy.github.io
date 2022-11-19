@@ -17,7 +17,8 @@ author_profile: true
 ## Principal Investigator
 
 <div style="text-align: left;"> <img src="/images/PI_photo.jpg" alt="PI_photo" width = "500"> </div>  
-**Teng Wang**   
+
+**Teng Wang**  
 Assistant Professor, Peking University  
 
 
@@ -27,7 +28,7 @@ Assistant Professor, Peking University
 * Geophysics: earthquake and volcano deformation, large-scale tectonic deformation
 * Nature Hazard: landslides, infrastructure stability, urban subsidence, hydrological process
 
-We are always open to both prospective students and potential postdoctoral researchers to join our group.
+#### We are always open to both prospective students and potential postdoctoral researchers to join our group.
 
 ## Post-docs
 
@@ -36,27 +37,7 @@ We are always open to both prospective students and potential postdoctoral resea
 * **Heng Luo**  
   Coseismic deformation of small-to-moderate earthquakes
   
-2020
 
-* **Bahruz Ahadov** (Boya Fellowship)  
-  Tectonic deformation modeling
-  
-## Research Assisstant
-
-2021
-<style type="text/css">
-a:link,a:visited{
- text-decoration:none;  /*超链接无下划线*/
- /*color: #494e52*/
-}
-a:hover{
- text-decoration:underline;  /*鼠标放上去有下划线*/
- color: red
-}</style>
-
-* **<a href="https://orcid.org/0000-0003-0709-3273">Qi Zhang</a>**  
-  AI in InSAR and change detection
-  
 ## Phd Students
 2022
 
@@ -143,7 +124,6 @@ a:hover{
 
 * **Qi Zhang** (with Prof. Yonghong Zhao, Peking University)  
  AI in InSAR and change detection  
- Now at my group as research assistant
 
 * **Andong Xu** (with Prof. Yonghong Zhao, Peking University)  
 Coseismic ruptures and fractures
