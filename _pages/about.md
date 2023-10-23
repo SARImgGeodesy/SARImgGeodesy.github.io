@@ -22,6 +22,14 @@ Synthetic Aperture Radar (SAR) is an active microwave remote-sensing sensor that
 
 ## **Selected publications**
 
+* Ziming Liu, & **Teng Wang\***, High-Resolution Interseismic Strain Mapping From InSAR Phase-Gradient Stacking: Application to the North Anatolian Fault With Implications for the Non-Uniform Strain Distribution Related to Coseismic Slip Distribution. Geophysical Research Letters, 2023, 50(15), e2023GL104168.
+
+* Heng Luo,  **Teng Wang\***,  Shengji Wei, Systematic comparison of InSAR and seismic source models for moderate-size earthquakes in western China: Implication to the seismogenic capacity of the shallow crust. Journal of Geophysical Research: Solid Earth, 2022, 127, e2022JB024794.
+  
+* Lv Fu, Qi Zhang, **Teng Wang\***, Weile Li, Qiang Xu, Daqing Ge, Detecting slow-moving landslides using InSAR phase-gradient stacking and deep-learning network. Frontiers in Environmental Science. 2022, 10.963322.
+  
+* Zhipeng Wu, **Teng Wang\***, Yingjie Wang, Robert Wang, Daqing Ge, Deep learning for the detection and phase unwrapping of mining-induced deformation in large-scale interferograms, IEEE Transactions on Geoscience and Remote Sensing, 2022, vol. 60, pp. 1-18.
+
 * **Teng Wang\***, Liqing Jiao, Paul Tapponnier, Xuhua Shi, and Shengji Wei, Space Imaging Geodesy Reveals Near Circular, Coseismic Block Rotation During the 2016 Mw 7.8 Kaikōura Earthquake, New Zealand, Geophysical Research Letters, 2020, 47(22), e2020GL090206
 
 * **Teng Wang\***, Qibin Shi, Mehdi Nikkhoo, Shengji Wei\*, Sylvain Barbot, Douglas S Dreger\*, Roland Burgmann, Mahdi Motagh, Qifu Chen, The rise, collapse, and compaction of Mt. Mantap from the 3 September 2017 North Korean nuclear test, Science, 2018, 361(6398), 166-170.
@@ -29,14 +37,6 @@ Synthetic Aperture Radar (SAR) is an active microwave remote-sensing sensor that
 * **Teng Wang**, Shengji Wei\*, Xuhua Shi, Qiang Qiu, Linlin Li, Dongju Peng, Ray J. Weldon, Sylvain Barbot, The 2016 Kaikōura earthquake: Simultaneous rupture of the subduction interface and overlying faults, Earth and Planetary Science Letters, 2018, 482:44-51. 
 
 * Joel Ruch#\*, **Teng Wang\***, Wenbin Xu, Martin Hensch, Sigurjon Jonsson\*, Oblique rift opening revealed by reoccurring magma injection in central Iceland, Nature Communications, 2016, 7:12352.
-
-* Zhipeng Wu, **Teng Wang\***, Yingjie Wang, Robert Wang, Daqing Ge, Deep learning for the detection and phase unwrapping of mining-induced deformation in large-scale interferograms, IEEE Transactions on Geoscience and Remote Sensing, 2022, vol. 60, pp. 1-18.
-  
-* Lv Fu, Qi Zhang, **Teng Wang\***, Weile Li, Qiang Xu, Daqing Ge, Detecting slow-moving landslides using InSAR phase-gradient stacking and deep-learning network. Frontiers in Environmental Science. 2022;10.
-  
-* Heng Luo,  **Teng Wang\***,  Shengji Wei, Systematic comparison of InSAR and seismic source models for moderate-size earthquakes in western China: Implication to the seismogenic capacity of the shallow crust. Journal of Geophysical Research: Solid Earth, 2022, 127, e2022JB024794.
-
-* Ziming Liu, & **Teng Wang\***, High-Resolution Interseismic Strain Mapping From InSAR Phase-Gradient Stacking: Application to the North Anatolian Fault With Implications for the Non-Uniform Strain Distribution Related to Coseismic Slip Distribution. Geophysical Research Letters, 2023, 50(15), e2023GL104168.
 
  
 
