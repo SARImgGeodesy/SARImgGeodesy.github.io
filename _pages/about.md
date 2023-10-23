@@ -28,27 +28,34 @@ Synthetic Aperture Radar (SAR) is an active microwave remote-sensing sensor that
 
 * **Teng Wang**, Shengji Wei\*, Xuhua Shi, Qiang Qiu, Linlin Li, Dongju Peng, Ray J. Weldon, Sylvain Barbot, The 2016 Kaikōura earthquake: Simultaneous rupture of the subduction interface and overlying faults, Earth and Planetary Science Letters, 2018, 482:44-51. 
 
-* Joel Ruch#\*, **Teng Wang#**, Wenbin Xu, Martin Hensch, Sigurjon Jonsson\*, Oblique rift opening revealed by reoccurring magma injection in central Iceland, Nature Communications, 2016, 7:12352.
+* Joel Ruch#\*, **Teng Wang\***, Wenbin Xu, Martin Hensch, Sigurjon Jonsson\*, Oblique rift opening revealed by reoccurring magma injection in central Iceland, Nature Communications, 2016, 7:12352.
 
-* **Teng Wang\***, Michael P. Poland, Zhong Lu, Dome growth at Mount Cleveland, Aleutian Arc, quantified by time series TerraSAR‐X imagery, Geophysical Research Letters, 2015, 42(24):10614-10621.
+* Zhipeng Wu, **Teng Wang\***, Yingjie Wang, Robert Wang, Daqing Ge, Deep learning for the detection and phase unwrapping of mining-induced deformation in large-scale interferograms, IEEE Transactions on Geoscience and Remote Sensing, 2022, vol. 60, pp. 1-18.
+  
+* Lv Fu, Qi Zhang, **Teng Wang\***, Weile Li, Qiang Xu, Daqing Ge, Detecting slow-moving landslides using InSAR phase-gradient stacking and deep-learning network. Frontiers in Environmental Science. 2022;10.
+  
+* Heng Luo,  **Teng Wang\***,  Shengji Wei, Systematic comparison of InSAR and seismic source models for moderate-size earthquakes in western China: Implication to the seismogenic capacity of the shallow crust. Journal of Geophysical Research: Solid Earth, 2022, 127, e2022JB024794.
 
-* **Teng Wang\***, Shengji Wei, Sigurjon Jonsson, Coseismic displacements from SAR image offsets between different satellite sensors, Application to the 2001 Bhuj (India) earthquake, Geophysical Research Letters, 2015, 42:7022–7030.
+* Ziming Liu, & **Teng Wang\***, High-Resolution Interseismic Strain Mapping From InSAR Phase-Gradient Stacking: Application to the North Anatolian Fault With Implications for the Non-Uniform Strain Distribution Related to Coseismic Slip Distribution. Geophysical Research Letters, 2023, 50(15), e2023GL104168.
 
  
 
 ## Projects
-* 国家科技部，重点研发项目：广域重大地质灾害隐患综合遥感识别技术研发，课题3：时空信息协同的崩滑隐患关联要素智能识别技术研发-子课题：广域InSAR形变集中区智能识别及动态监测技术研究（2021YFC3000403），2021/12-2025/05， 80万元，Co-I
 
-* 中国自然资源航空物探遥感中心，滑坡变形InSAR相位异常智能探测方法研究，2021/9-2022/5，70万元，PI
+* 国家自然科学基金委员会，国家自然科学基金面上项目：雷达影像大地测量揭示的滑坡活动性在地震周期中的演化规律 | Landslide Activities during Earthquake Cycle Revealed by Radar Imaging Geodesy（42374019），2024/01-2027/12，51万元，PI
+
+* 国家科技部，重点研发项目：广域重大地质灾害隐患综合遥感识别技术研发，课题3：时空信息协同的崩滑隐患关联要素智能识别技术研发-子课题：广域InSAR形变集中区智能识别及动态监测技术研究（2021YFC3000403），2021/12-2025/05， 80万元，Co-I
 
 * 国家自然科学基金委员会，创新群体项目：断裂带物理学，2021/01-2025/12，120万元，Co-I
 
-* 中国科学院空天信息创新研究院，Sentinel-1广域InSAR分布式数据处理模块研发，2020/12-2021/12，18万元，PI
+* 中国自然资源航空物探遥感中心，滑坡变形InSAR相位异常智能探测方法研究，2021/9-2022/5，70万元，PI
 
-* 国家自然科学基金委员会，国家自然科学基金面上项目：三维同震形变场揭示的地表破裂模式与地形塑造作用 \| Three-dimensional coseismic displacement fields reveal surface rupture patterns and topography evolution（41974017），2020/01-2023/12，64万元，PI
+* 中国科学院空天信息创新研究院，Sentinel-1广域InSAR分布式数据处理模块研发，2020/12-2021/12，18万元，PI
 
 * 国家自然科学基金委员会，地震联合基金重点支持项目：川滇地区构造应力场与强震活动关系研究 \| Tectonic Stress Field in the Sichuan-Yunnan Region and its Relationship with Large Earthquakes（U1939202），2020/01-2023/12，70万元，Co-I
 
+* 国家自然科学基金委员会，国家自然科学基金面上项目：三维同震形变场揭示的地表破裂模式与地形塑造作用 | Three-dimensional coseismic displacement fields reveal surface rupture patterns and topography evolution（41974017），2020/01-2023/12，64万元，PI
+  
 * 国家科技部，重点研发项目：基于地壳形变场、温度场、流体场耦合的地震监测技术研究，课题4：地壳形变场、温度场、流体场耦合断层力学模型与协同机制研究（2019YFC1509204），2020/01-2023/01， 45万元，Co-I
 
  
