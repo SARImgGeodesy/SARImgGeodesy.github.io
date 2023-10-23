@@ -54,7 +54,7 @@ Synthetic Aperture Radar (SAR) is an active microwave remote-sensing sensor that
 
 * 国家自然科学基金委员会，地震联合基金重点支持项目：川滇地区构造应力场与强震活动关系研究 \| Tectonic Stress Field in the Sichuan-Yunnan Region and its Relationship with Large Earthquakes（U1939202），2020/01-2023/12，70万元，Co-I
 
-* 国家自然科学基金委员会，国家自然科学基金面上项目：三维同震形变场揭示的地表破裂模式与地形塑造作用 | Three-dimensional coseismic displacement fields reveal surface rupture patterns and topography evolution（41974017），2020/01-2023/12，64万元，PI
+* 国家自然科学基金委员会，国家自然科学基金面上项目：三维同震形变场揭示的地表破裂模式与地形塑造作用 \| Three-dimensional coseismic displacement fields reveal surface rupture patterns and topography evolution（41974017），2020/01-2023/12，64万元，PI
   
 * 国家科技部，重点研发项目：基于地壳形变场、温度场、流体场耦合的地震监测技术研究，课题4：地壳形变场、温度场、流体场耦合断层力学模型与协同机制研究（2019YFC1509204），2020/01-2023/01， 45万元，Co-I
 
