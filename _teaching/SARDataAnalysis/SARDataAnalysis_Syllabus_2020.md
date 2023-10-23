@@ -1,14 +1,14 @@
-SARDataAnalysis_Syllabus_2020
+
 ---
 title: "Synthetic Aperture Radar Images Analysis and Applications - 2020"
 permalink: /teaching/SARDataAnalysis/SARDataAnalysis_Syllabus_2020
 layout: default
+date: 2020
 ---
 
 **Spring Semester, 2020, Geophysics Department, Peking University**
 
  
-
 ### Course goal
 
 By the end of this course, participants will be able to understand how SAR works and what can be done by cutting-edge SAR imaging geodesy. I hope all participants will be able derive information from SAR images using interferometry and/or pixel-offset tracking after finishing this course. For some participants, you will be able to know how to start and where to learn if you want to use some advanced SAR/InSAR methods in your research. Even If you are not interested in processing SAR images, when you need displacement measurements from SAR imagery, you will know where to find your collaborators (your classmates!).  
