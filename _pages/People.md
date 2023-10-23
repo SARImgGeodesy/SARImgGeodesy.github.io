@@ -39,6 +39,12 @@ Assistant Professor, Peking University
   
 
 ## Phd Students
+
+2023
+
+* **Huizhi Duan**  
+ Mining deformation
+
 2022
 
 * **Lv Fu**  
@@ -46,7 +52,6 @@ Assistant Professor, Peking University
   
 * **Meiling Wen**  
  
-  
 2021  
 
 * **Weilai Sun**  
@@ -54,11 +59,14 @@ Assistant Professor, Peking University
   
 * **Hang Xu**  
   Large-scale SAR interferometry and applications to coastal deformation
-  
+
+* **Ahmad Said Mukhtar**
+ Large-scale SAR interferometry and applications to landslides
+
 2020  
 
 * **Zhen Li**  
-  Coseismic deformation of large strike-slip earthquakes
+  Coseismic　and postseismic deformation of large strike-slip earthquakes
 
 * **Ziming Liu**  
   Large-scale SAR interferometry and applications to earthquake cycles   
