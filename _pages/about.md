@@ -42,7 +42,7 @@ Synthetic Aperture Radar (SAR) is an active microwave remote-sensing sensor that
 
 ## Projects
 
-* 国家自然科学基金委员会，国家自然科学基金面上项目：雷达影像大地测量揭示的滑坡活动性在地震周期中的演化规律 | Landslide Activities during Earthquake Cycle Revealed by Radar Imaging Geodesy（42374019），2024/01-2027/12，51万元，PI
+* 国家自然科学基金委员会，国家自然科学基金面上项目：雷达影像大地测量揭示的滑坡活动性在地震周期中的演化规律 \| Landslide Activities during Earthquake Cycle Revealed by Radar Imaging Geodesy（42374019），2024/01-2027/12，51万元，PI
 
 * 国家科技部，重点研发项目：广域重大地质灾害隐患综合遥感识别技术研发，课题3：时空信息协同的崩滑隐患关联要素智能识别技术研发-子课题：广域InSAR形变集中区智能识别及动态监测技术研究（2021YFC3000403），2021/12-2025/05， 80万元，Co-I
 
