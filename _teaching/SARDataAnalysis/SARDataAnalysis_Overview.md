@@ -10,4 +10,4 @@ date: 2023-10-23
 
 - [2020 Spring Semester](/teaching/SARDataAnalysis/SARDataAnalysis_Syllabus_2020)
 - [2021 Spring Semester](/teaching/SARDataAnalysis/SARDataAnalysis_Syllabus_2021)
-- [2022 Spring Semester](/teaching/SARDataAnalysis/SARDataAnalysis_Syllabus_2023)
+- [2023 Spring Semester](/teaching/SARDataAnalysis/SARDataAnalysis_Syllabus_2023)
