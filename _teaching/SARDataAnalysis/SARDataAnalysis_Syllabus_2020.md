@@ -2,8 +2,8 @@
 title: "Synthetic Aperture Radar Images Analysis and Applications - 2020"
 permalink: /teaching/SARDataAnalysis/SARDataAnalysis_Syllabus_2020
 layout: single
-date: 2020-11-11
 collection: teaching
+date: 2020-11-11
 ---
 
 **Spring Semester, 2020, Geophysics Department, Peking University**
