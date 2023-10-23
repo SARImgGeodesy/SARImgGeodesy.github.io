@@ -2,7 +2,7 @@
 title: "Synthetic Aperture Radar Images Analysis and Applications - 2020"
 permalink: /teaching/SARDataAnalysis/SARDataAnalysis_Syllabus_2020
 layout: single
-date: 2020-11-1
+date: 2020-11-11
 collection: teaching
 ---
 
