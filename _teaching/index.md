@@ -3,6 +3,7 @@ layout: single
 title: "Teaching Overview"
 permalink: /teaching/
 collection: teaching
+date: 2023-10-23
 ---
 
 Welcome to my teaching section! Here, I provide resources and overviews for the courses I teach. Below are the courses I've offered over the years:
