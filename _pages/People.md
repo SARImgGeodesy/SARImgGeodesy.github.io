@@ -28,7 +28,7 @@ Assistant Professor, Peking University
 * Geophysics: earthquake and volcano deformation, large-scale tectonic deformation
 * Nature Hazard: landslides, infrastructure stability, urban subsidence, hydrological process
 
-#### We are always open to both prospective students and potential postdoctoral researchers to join our group.
+### **We are always open to both prospective students and potential postdoctoral researchers to join our group.**
 
 ## Post-docs
 
