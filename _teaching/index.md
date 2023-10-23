@@ -3,10 +3,6 @@ layout: single
 title: "Teaching Overview"
 permalink: /teaching/
 collection: teaching
-venue: "Peking University"
-date: 2021-11-18
-season: "Spring"
-location: "Beijing, China"
 ---
 
 # Teaching Overview
