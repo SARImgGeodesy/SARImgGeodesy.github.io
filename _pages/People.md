@@ -60,7 +60,7 @@ Assistant Professor, Peking University
 * **Hang Xu**  
   Large-scale SAR interferometry and applications to coastal deformation
 
-* **Ahmad Said Mukhtar**
+* **Ahmad Said Mukhtar**  
   Large-scale SAR interferometry and applications to landslides
 
 2020  
