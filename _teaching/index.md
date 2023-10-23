@@ -5,8 +5,6 @@ permalink: /teaching/
 collection: teaching
 ---
 
-# Teaching Overview
-
 Welcome to my teaching section! Here, I provide resources and overviews for the courses I teach. Below are the courses I've offered over the years:
 
 - [Synthetic Aperture Radar Images Analysis and Applications](/teaching/SARDataAnalysis/SARDataAnalysis_Overview)
