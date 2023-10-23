@@ -4,6 +4,8 @@ title: "Course Overview: Synthetic Aperture Radar Images Analysis and Applicatio
 permalink: /teaching/SARDataAnalysis/SARDataAnalysis_Overview
 collection: teaching
 date: 2023-10-23
+season: "Spring"
+location: "Beijing, China"
 ---
 
 **合成孔径雷达（SAR）数据分析及应用**
