@@ -4,7 +4,7 @@ title: "Teaching Overview"
 permalink: /teaching/
 collection: teaching
 date: 2023-10-23
-season: "Spring"
+season: "Until Spring"
 location: "Beijing, China"
 ---
 
