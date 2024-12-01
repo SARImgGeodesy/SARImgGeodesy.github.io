@@ -5,6 +5,85 @@ permalink: /publications/
 author_profile: true
 
 ---
+
+<b>2024-#4</b>  
+<div style="text-align: center;">
+<b>InSAR phase gradient reveals fault-zone controls on the spatial distribution of slow-moving landslides in the active orogenic region of Hazara-Kashmir, Pakistan</b>  
+<br><b>InSAR相位梯度揭示巴基斯坦哈扎拉-克什米尔活动造山带中缓慢滑坡空间分布的断层带控制</b>  
+<br><a href="https://doi.org/10.1002/esp.6015">Ahmad, S.M., Fu, L. & Wang, T. (2024) InSAR phase gradient reveals fault-zone controls on the spatial distribution of slow-moving landslides in the active orogenic region of Hazara-Kashmir, Pakistan. Earth Surface Processes and Landforms, 1–19.</a>
+</div>
+Slow-moving landslides play important roles in the landscape evolution and hazards planning. Studies along some strike-slip faults have shown that the geological structures and bed-rock lithology significantly contribute the distribution of slow-moving landslides. However, controls on the distribution of slow-moving landslides are poorly constrained in active orogenic regions, hindering our understanding of its role in the rapid orogenic process. The Hazara Kashmir Syntaxis in Pakistan is such a prominent geological structure of lesser Himalaya, where the inventory of slow-moving landslides is scarce. Here, we attempt the interferometric synthetic aperture radar phase-gradient stacking coupled with a deep-learning system to provide the first slow-moving landslides inventory (1066 presently active landslides, 2016–2023) in the Hazara-Kashmir region. Along with optical imagery and field investigations, we analyse the impacts of fault structures, bed-rock lithology, topography along with spatial distribution of earthquake and precipitation on the distribution of these slow-moving landslides. We find that 33% of the detected slow-moving landslides are distributed within 1000 m to active faults, and show a decreasing trend moving away from fault zones. This pattern strongly suggests that the active thrusting faults in this region significantly controls the distribution of slow-moving landslides, while topography and precipitation show less impacts. Our study reveals the spatial distribution of slow-moving landslides in a tectonic complex region with rapid orogenic process, and thus shows potential implications in geomorphology modelling and hazards evaluation for many less-monitored, contemporary uplifting high-mountain regions.
+
+慢速滑坡在地貌演化和灾害规划中发挥着重要作用。沿一些走滑断层进行的研究表明，地质结构和基岩岩性对慢速滑坡的分布有重要影响。然而，在造山运动活跃的地区，对慢速滑坡分布的控制还很不完善，这阻碍了我们对其在快速造山过程中的作用的了解。巴基斯坦的哈扎拉-克什米尔综合地貌就是小喜马拉雅的一个突出地质结构，那里的慢速滑坡目录很少。在此，我们将干涉合成孔径雷达相位梯度堆叠与深度学习系统相结合，提供哈扎拉-克什米尔地区的首个慢速滑坡清单（1066 个目前活跃的滑坡，2016-2023 年）。通过光学图像和实地调查，我们分析了断层结构、基岩岩性、地形以及地震和降水的空间分布对这些慢速滑坡分布的影响。我们发现，33% 的检测到的慢速滑坡分布在活动断层 1000 米范围内，并呈现出远离断层带的递减趋势。这一模式有力地表明，该地区活跃的推断断层在很大程度上控制着慢速滑坡的分布，而地形和降水的影响较小。我们的研究揭示了缓慢移动的滑坡在快速造山过程的构造复杂地区的空间分布，因此对许多监测较少的当代隆起高山地区的地貌建模和危害评估具有潜在影响。
+
+<div style="text-align: center;"> <img src="/images/lizhen.jpg" alt="softwareTitleEn" width="900"> <br>Slow-moving landslides play important roles in the landscape evolution and hazards planning. Studies along some strike-slip faults have shown that the geological structures and bed-rock lithology significantly contribute the distribution of slow-moving landslides. However, controls on the distribution of slow-moving landslides are poorly constrained in active orogenic regions, hindering our understanding of its role in the rapid orogenic process. The Hazara Kashmir Syntaxis in Pakistan is such a prominent geological structure of lesser Himalaya, where the inventory of slow-moving landslides is scarce. Here, we attempt the interferometric synthetic aperture radar phase-gradient stacking coupled with a deep-learning system to provide the first slow-moving landslides inventory (1066 presently active landslides, 2016–2023) in the Hazara-Kashmir region. Along with optical imagery and field investigations, we analyse the impacts of fault structures, bed-rock lithology, topography along with spatial distribution of earthquake and precipitation on the distribution of these slow-moving landslides. We find that 33% of the detected slow-moving landslides are distributed within 1000 m to active faults, and show a decreasing trend moving away from fault zones. This pattern strongly suggests that the active thrusting faults in this region significantly controls the distribution of slow-moving landslides, while topography and precipitation show less impacts. Our study reveals the spatial distribution of slow-moving landslides in a tectonic complex region with rapid orogenic process, and thus shows potential implications in geomorphology modelling and hazards evaluation for many less-monitored, contemporary uplifting high-mountain regions.
+慢速滑坡在地貌演化和灾害规划中发挥着重要作用。沿一些走滑断层进行的研究表明，地质结构和基岩岩性对慢速滑坡的分布有重要影响。然而，在造山运动活跃的地区，对慢速滑坡分布的控制还很不完善，这阻碍了我们对其在快速造山过程中的作用的了解。巴基斯坦的哈扎拉-克什米尔综合地貌就是小喜马拉雅的一个突出地质结构，那里的慢速滑坡目录很少。在此，我们将干涉合成孔径雷达相位梯度堆叠与深度学习系统相结合，提供哈扎拉-克什米尔地区的首个慢速滑坡清单（1066 个目前活跃的滑坡，2016-2023 年）。通过光学图像和实地调查，我们分析了断层结构、基岩岩性、地形以及地震和降水的空间分布对这些慢速滑坡分布的影响。我们发现，33% 的检测到的慢速滑坡分布在活动断层 1000 米范围内，并呈现出远离断层带的递减趋势。这一模式有力地表明，该地区活跃的推断断层在很大程度上控制着慢速滑坡的分布，而地形和降水的影响较小。我们的研究揭示了缓慢移动的滑坡在快速造山过程的构造复杂地区的空间分布，因此对许多监测较少的当代隆起高山地区的地貌建模和危害评估具有潜在影响。
+</div>
+
+---
+<b>2024-#3</b>  
+<div style="text-align: center;">
+<b>Review of SAR imaging geodesy for glacier velocity monitoring</b>  
+<br><b>基于SAR成像的冰川速度监测地质学研究综述</b>  
+<br><a href="https://doi.org/10.1016/j.geog.2024.08.004">Meiling Wen, Teng Wang, Review of SAR imaging geodesy for glacier velocity monitoring, Geodesy and Geodynamics, 2024,ISSN 1674-9847, https://doi.org/10.1016/j.geog.2024.08.004.</a>
+</div>
+The surface velocity is one of the most important characteristics of glaciers. Monitoring and mapping glacier movements are of great significance for the studies of sea-level rise, glacier mass balance and dynamics, global warming, and the management of freshwater resources. It is also essential for the early warnings of hazards caused by ice avalanches. SAR imaging geodesy has been developed for measuring glacier velocity, especially the pixel-offset tracking method. This paper introduces some basic concepts of glaciology and principles of various SAR imaging geodesy methods, with a detailed presentation about the developments in the applications of the pixel-offset tracking method. Finally, the challenges and future prospects of SAR imaging geodesy in glacier monitoring are discussed. 
+
+表面速度是冰川最重要的特征之一。监测和绘制冰川运动图对于研究海平面上升、冰川质量平衡和动态、全球变暖和淡水资源管理具有重要意义。它对于冰崩造成的危害预警也至关重要。目前已开发出用于测量冰川速度的合成孔径雷达成像大地测量法，特别是像素偏移跟踪法。本文介绍了冰川学的一些基本概念和各种合成孔径雷达成像大地测量方法的原理，并详细介绍了像素偏移跟踪方法的应用发展情况。最后，讨论了雷达影像大地测量在冰川监测中面临的挑战和未来前景。
+
+<div style="text-align: center;"> <img src="/images/lizhen.jpg" alt="softwareTitleEn" width="900"> <br>Glaciers monitored by SAR imaging geodesy. Red dots indicate individual glaciers. White regions outline large glaciers worldwide, such as the Antarctic Ice Sheet and the Greenland Ice Sheet.
+雷达影像大地测量监测过的冰川。红点表示单个冰川。白色区域勾勒出世界各地的大型冰川，如南极冰原和格陵兰冰原。
+</div>
+
+---
+<b>2024-#2</b>  
+<div style="text-align: center;">
+<b>Deep Learning for Exploring Landslides with Remote Sensing and Geo-Environmental Data: Frameworks, Progress, Challenges, and Opportunities</b>  
+<br><b>利用遥感和地理环境数据探索山体滑坡的深度学习： 框架、进展、挑战和机遇</b>  
+<br><a href="https://www.mdpi.com/2072-4292/16/8/1344">Zhang, Q., & Wang, T. (2024). Deep Learning for Exploring Landslides with Remote Sensing and Geo-Environmental Data: Frameworks, Progress, Challenges, and Opportunities. Remote Sensing, 16(8), 1344.</a>
+</div>
+This article offers a comprehensive AI-centric review of deep learning in exploring landslides with remote-sensing techniques, breaking new ground beyond traditional methodologies. We categorize deep learning tasks into five key frameworks—classification, detection, segmentation, sequence, and the hybrid framework—and analyze their specific applications in landslide-related tasks. Following the presented frameworks, we review state-or-art studies and provide clear insights into the powerful capability of deep learning models for landslide detection, mapping, susceptibility mapping, and displacement prediction. We then discuss current challenges and future research directions, emphasizing areas like model generalizability and advanced network architectures. Aimed at serving both newcomers and experts on remote sensing and engineering geology, this review highlights the potential of deep learning in advancing landslide risk management and preservation.
+
+本文以人工智能为中心，全面评述了深度学习在利用遥感技术探索山体滑坡方面的应用，在传统方法论之外开辟了新天地。我们将深度学习任务分为五个关键框架--分类、检测、分割、序列和混合框架，并分析了它们在滑坡相关任务中的具体应用。在介绍了这些框架之后，我们回顾了最新研究，并就深度学习模型在滑坡检测、绘图、易感性绘图和位移预测方面的强大能力提出了清晰的见解。然后，我们讨论了当前的挑战和未来的研究方向，强调了模型的可泛化性和先进的网络架构等领域。本综述旨在为遥感和工程地质领域的新手和专家提供服务，强调深度学习在推进滑坡风险管理和保护方面的潜力。
+
+<div style="text-align: center;"> <img src="/images/lizhen.jpg" alt="softwareTitleEn" width="900"> <br></div>
+
+---
+<b>2024-#1</b>  
+<div style="text-align: center;">
+<b>Remote sensing through the fog of war: Infrastructure damage and environmental change during the Russian-Ukrainian conflict revealed by open-access data</b>  
+<br><b>穿越战争迷雾的遥感： 开放存取数据揭示的俄乌冲突期间基础设施破坏和环境变化情况</b>  
+<br><a href="https://doi.org/10.1016/j.nhres.2024.01.006">https://doi.org/10.1016/j.nhres.2024.01.006</a>
+<br><a href="https://www.usnews.com/news/best-countries/articles/2024-02-24/the-war-in-ukraine-as-seen-from-space">US News报道</a>
+</div>
+The Russian-Ukrainian conflict spawned a high-intensity war that shattered decades of peace in Europe. The use of drones and social media elevates open-source intelligence as a critical strategic asset. However, information from these sources is sporadic, difficult to confirm, and prone to manipulation. Here, we use open-access spaceborne remote sensing data to probe the damage to infrastructure on and off the frontline at the city, region, and country-wide scales in Ukraine. Nighttime light data and Synthetic Aperture Radar images reveal widespread blackout and unveil the destruction of battleground cities, offering contrasted perspectives on the impact of the conflict. Optical satellite images capture extensive flooding along the Dnipro River in the aftermath of the breach of the Kakhovka dam. Leveraging visible, near-infrared, and microwave satellite data, we bring to light disruption of human activities, havoc in the environment, and the annihilation of entire cities during the protracted conflict. Open-source remote sensing can offer objective information about the nature and extent of devastation during military conflicts.
+
+俄乌冲突引发的高强度战争打破了欧洲数十年的和平。无人机和社交媒体的使用提升了公开来源情报作为重要战略资产的地位。然而，这些来源的信息时断时续，难以确认，而且容易被操纵。在此，我们使用开放访问的空间遥感数据来探测乌克兰城市、地区和全国范围内前线内外基础设施的损坏情况。夜间光线数据和合成孔径雷达图像显示了大面积停电，揭示了战场城市的破坏情况，提供了冲突影响的对比视角。光学卫星图像捕捉到 Kakhovka 大坝决堤后第聂伯河沿岸大面积的洪水。利用可见光、近红外和微波卫星数据，我们揭示了在这场旷日持久的冲突中，人类活动的中断、环境的破坏以及整个城市的毁灭。开放源码遥感技术可以提供有关军事冲突期间破坏的性质和程度的客观信息。
+
+<div style="text-align: center;"> <img src="/images/lizhen.jpg" alt="softwareTitleEn" width="900"> <br>Destruction of cities during the battles of Rubizhne, Severodonetsk, and Lysychansk (May–June 2022) and of Bahkmut (2022–2023) from changes in SAR coherence. Red pixels indicate lower coherence than the value derived from images acquired before the war, implying destruction or damage to buildings. a) Battles of Rubizhne, Severodonetsk, and Lysychansk. All changes are relative to a SAR acquisition on 04/12/2022. Lysychansk fell quickly after encirclement from the south. b) Battle of Bakhmut. All changes are relative to a SAR acquisition on 11/26/2022. Urban areas are shown in gray with damage in dark red. The reported progression of the Russian army, the contested areas and liberated area from OSINT (deepstatemap.live) are shown with light red, lighter red and green backgrounds, respectively. Only the pixels belong to the class “Artificial surface” was included in our damage map, which is determined by the European Space Agency (ESA) WorldCover 2021 product (https://worldcover2021.esa.int/).
+从SAR相干性变化看鲁比日涅、塞韦罗多涅茨克和利辛斯克战役（2022 年 5-6 月）和巴赫克穆特战役（2022-2023 年）期间城市的破坏情况。红色像素表示相干性低于战前获取的图像得出的值，这意味着建筑物遭到破坏或损坏。 a) 鲁比日内、塞韦罗多涅茨克和利辛甘斯克战役。所有变化都是相对于 2022 年 12 月 4 日获取的 SAR 而言。b) 巴赫穆特战役。所有变化都是相对于 2022 年 11 月 26 日获取的 SAR 数据而言。城市区域显示为灰色，受损区域显示为深红色。根据 OSINT（deepstatemap.live）报告的俄军进展、争议地区和解放区分别以浅红色、浅红色和绿色背景显示。只有属于 “人工表面 ”类别的像素才被纳入我们的破坏地图，该类别由欧洲航天局 (ESA) 的 WorldCover 2021 产品 (https://worldcover2021.esa.int/) 确定。
+</div>
+
+---
+
+---
+<b>2023-#5</b>  
+<div style="text-align: center;">
+<b>Lower Crust Viscosity in Central Tibet Inferred From InSAR Derived Deformation Around Siling Co Lake After Its Rapid Expansion in the 2000s</b>  
+<br><b>基于InSAR观测的变形揭示2000年代快速扩张后色林错湖周缘中部西藏下地壳黏滞性特征</b>  
+<br><a href="https://doi.org/10.1029/2023GL104863">Fan, W,. Wang, ,T. &Shi, X. (2023). Lower crust viscosity in central Tibet inferred from InSAR derived deformation around Siling Co Lake after its rapid expansion in the 2000s. Geophysical Research Letters, 50, e2023GL104863.</a>
+</div>
+Constraining the lithospheric rheology of Tibetan Plateau is important for the physical understanding of its tectonics. Siling Co, the largest high-altitude lake in the world, has experienced a rapid water level increase in the 2000s. The resulting loading changes stimulate the viscoelastic response of the lower crust, giving access to study the lithospheric rheology in central Tibet. Here, we derive a clear subsidence
+signal around the lake with peak velocity of 4mm/yr from two tracks of Sentinel-1 InSAR images acquired from 2017 to 2022. Our viscoelastic modeling suggests a ductile layer 15 km beneath the surface with a decadal-scale, steady-state viscosity of 1-4 x 1019 Pa s This value is consistent with the viscosity inferred from millennium-scale shoreline changes, but is about 10 times higher than the viscosities derived from the
+deformation surrounding Siling Co before 2011, highlighting the role of transient viscosity ni controlling the surface deformation.
+
+对青藏高原岩石圈流变学的约束，对于从物理角度理解青藏高原的构造非常重要。世界上最大的高海拔湖泊锡林郭勒在 2000 年代经历了水位的快速上升。由此产生的载荷变化刺激了下地壳的粘弹性响应，为研究西藏中部岩石圈流变学提供了机会。在这里，我们得出了湖泊周围明显的沉降信号，其峰值速度为 4 毫米/年。我们的粘弹性建模表明，地表下 15 公里处有一个韧性层，其十年尺度的稳态粘度为 1-4 x 1019 Pa .s高出约 10 倍，凸显了瞬态粘度对地表变形的控制作用。
+
+<div style="text-align: center;"> <img src="/images/lizhen.jpg" alt="softwareTitleEn" width="900"> <br>5-year equivalent cumulative deformations (2017-2021) around the Siling Co area from InSAR observations. (a) 5-year equivalent cumulative deformations obtained by InSAR observations from ascending track AT114 and descending track DT48. RF in thick black box is the Reference area, where no deformation is assumed. Cold (blue) colors indicate that the ground moves away from the satellites. Note that the pixels with average coherence less than 0.2 are discarded. The inset shows the vertical deformation derived from ascending and descending tracks. Cold colors indicate subsidence. (b) Profiles of observation and simulations from models with different structures.
+通过 InSAR 观测获得的色林错周边地区 5 年等效累积变形量（2017-2021 年）。(a) 通过 InSAR 观测获得的升轨 AT114 和降轨 DT48 的 5 年等效累积变形量。粗黑框中的 RF 为参考区域，假定该区域没有变形。冷色（蓝色）表示地面远离卫星。请注意，平均相干性小于 0.2 的像素已被舍弃。插图显示了从上升轨道和下降轨道得出的垂直形变。冷色表示下沉。(b) 不同结构模型的观测和模拟剖面图。
+</div>
+
+---
 <b>2023-#4</b>  
 <div style="text-align: center;">
 <b>Coseismic and early post-seismic slip of the 2021 Mw 7.2 Nippes, Haiti earthquake: Transpressional rupture of a nonplanar dipping fault system</b>  
