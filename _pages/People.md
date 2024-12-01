@@ -40,10 +40,15 @@ Assistant Professor, Peking University
 
 ## Phd Students
 
+2024
+
+* **Qi Zhang**  
+  AI in InSAR and change detection
+
 2023
 
 * **Huizhi Duan**  
- Mining deformation
+  Mining deformation
 
 2022
 
@@ -66,7 +71,7 @@ Assistant Professor, Peking University
 2020  
 
 * **Zhen Li**  
-  Coseismic　and postseismic deformation of large strike-slip earthquakes
+  Coseismic and postseismic deformation of large strike-slip earthquakes
 
 * **Ziming Liu**  
   Large-scale SAR interferometry and applications to earthquake cycles   
@@ -74,10 +79,6 @@ Assistant Professor, Peking University
 * **Yuexiang Wang**  
   Surface deformation associated with elasticity and fluid mechanics  
   
-2019
-
-* **Wenzhi Fan**   
-  Large-scale SAR interferometry and applications to surface loading  
 
 ### **Co-supervised with relevant projects in our group**
 
@@ -87,11 +88,6 @@ Assistant Professor, Peking University
 
 ## Master Students
 
-
-### **Co-supervised with relevant projects in our group**
-
-* **Zhongcheng Cao** (with Prof. Yonghong Zhao, Peking University)  
-  Deformation and mechanism of loess landslides   
 
  
 ## Supervised undergraduate projects:
@@ -130,6 +126,9 @@ a:hover{
 * **Ru Liu** (with Prof. Yonghong Zhao, Peking University)  
  Coseismic landslides triggering
 
+* **Zhongcheng Cao** (with Prof. Yonghong Zhao, Peking University)  
+  Deformation and mechanism of loess landslides
+  
 * **Qi Zhang** (with Prof. Yonghong Zhao, Peking University)  
  AI in InSAR and change detection  
 
@@ -139,3 +138,6 @@ Coseismic ruptures and fractures
 * **Heng Luo** (with Prof. Mingsheng Liao, Wuhuan University)  
  Small and deep earthquakes  
  Now at my group as post-doc
+
+* **Wenzhi Fan**   
+  Large-scale SAR interferometry and applications to surface loading  
